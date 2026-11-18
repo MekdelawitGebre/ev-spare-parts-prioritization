@@ -1,0 +1,564 @@
+{
+  "count": 25,
+  "message": "Results returned successfully",
+  "results": [
+    {
+      "odiNumber": 11776761,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/02/2024",
+      "dateComplaintFiled": "11/09/2026",
+      "vin": "JTMABACA5RA",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "The 12-volt auxiliary battery in my 2024 Toyota bZ4X repeatedly drains and fails, leaving the vehicle completely unable to start. This has happened multiple times since XXX, including State Farm Emergency Road Service events on XX, requiring jump starts and tows. The first occurrence was at about 8,000 miles. The vehicle becomes inoperable without warning and cannot be restarted, which is a safety concern because it can leave the driver stranded without warning. The selling dealer, Team Toyota of Princeton in [XXX], has been unable to diagnose or repair the problem despite repeated reports and visits in XXX, and Toyota closed one corporate case without a fix. The problem has not been reproduced or confirmed by the dealer. The vehicle is available for inspection upon request. No crash, fire, or injury occurred. INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11752465,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/04/2026",
+      "dateComplaintFiled": "07/23/2026",
+      "vin": "jtmabaca8ra",
+      "components": "STRUCTURE",
+      "summary": "I was driving during heavy rain when I heard and felt a big thump.  I wasn't sure what happened as I did not hit anything in the road.  I was in my neighborhood driving at low speeds (<30mph).  When I got home, I realized my fender liners and lower splash guard of my car were missing.  I went back out to retrieve these pieces of my car, and it appeared the fender liners and the splash guard got torn off my car without impact with anything, as nothing was in the road near it.  I was going to attempt to reconnect them but the plastic clips on the front bumper also ripped off, making this a very expensive repair requiring bumper replacement and sensor recalibration.  This obviously could put others at risk of running over a large number of components that were left in the road.  I read many other instances of other people with the same vehicle (as well as with the Solterra) having an issue where the felt fender liners can become saturated with water, sag, and get caught in the wheels, ripping them off.  I was one of those unlucky people to lose both sides and the splash guard all at the same time.  The dealership / body shop inspected the vehicle.  No warnings at all - just sudden ingestion of the fender liners into my drivetrain.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11740953,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": true,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/21/2026",
+      "dateComplaintFiled": "05/29/2026",
+      "vin": "JTMAAAAA9RA",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "While operating my 2024 Toyota bZ4X at very low speed on the road , I observed a stationary shipping container directly ahead and applied the brake pedal with maximum force approximately 4 seconds before contact. I held the brake pedal at full pressure continuously. I never touched the accelerator. The vehicle came to what appeared to be a complete stop  then continued to advance and made physical contact with the container despite my maintained maximum brake input. The vehicle's own ECU-recorded Freeze Frame Data (retrieved by an authorized Toyota dealer using PCS Data Viewer) confirms the following at the time of the event:  Driver brake pedal torque was at sensor saturation (4,048 Nm \u2014 the maximum value the sensor can record) for approximately 1.75 seconds prior to impact. Brake hydraulic line pressure peaked at 12.144 MPa and remained above 7.8 MPa throughout that period. Throttle position was 0.0% for the entire recorded interval. All four wheel-speed sensors recorded 0.00 km/h for approximately 2.95 seconds prior to impact. Steering input was effectively neutral; no skid or loss of directional control occurred. The longitudinal accelerometer recorded a peak deceleration spike of -8.97 m/s\u00b2 at the moment of impact \u2014 a value that requires forward velocity and is physically inconsistent with the wheel-speed data showing the vehicle stopped. The Pre-Collision System (PCS) main switch was ON throughout, with no faults, no obstruction flags, and no warning, pre-brake, brake-assist, or auto-brake activation recorded. The Parking Support Brake (PKSB) did not activate. No diagnostic trouble codes were set.  In plain terms: with maximum brake pressure applied and zero throttle input, my vehicle continued to move forward into a clearly visible stationary obstacle. The brakes did not maintain authority over the powertrain's creep torque, and no advanced safety system intervened. This indicates a potential defect in the vehicle's brake-override / creep-suppression",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11739440,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": true,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/21/2026",
+      "dateComplaintFiled": "05/22/2026",
+      "vin": "JTMAAAAA9RA",
+      "components": "ELECTRICAL SYSTEM,UNKNOWN OR OTHER,SERVICE BRAKES",
+      "summary": "The vehicle experienced a sudden, catastrophic brake-by-wire system failure while operating in one-pedal driving (Regeneration Boost mode). While decelerating at a low speed behind an 18-wheeler semi-truck, the vehicle failed to continue slowing down. I immediately depressed the physical brake pedal, but the vehicle completely ignored the foot pressure. The pedal and braking system became completely unresponsive, and the vehicle kept rolling forward uncommanded.     Despite keeping the brake pedal fully depressed, the vehicle did not decelerate, resulting in a front-end low-speed collision with the metal rear bumper of the semi-truck. Because the collision occurred at a very low speed, the operator of the commercial truck was unaware of the impact and safely continued driving forward without stopping.     The vehicle's brakes entirely refused to re-engage until I frantically pumped the physical brake pedal and cycled/pressed vehicle control power switches. This action seemingly forced the electronic braking modules to reboot or re-establish hydraulic pressure, allowing the vehicle to finally come to a stop. The vehicle was subsequently removed from the active roadway.   This is a severe, life-threatening safety defect involving a total loss of electronic brake-by-wire and friction braking application without any mechanical override intervention, presenting an extreme hazard. The vehicle has been towed directly to an authorized Toyota dealership for a comprehensive electronic diagnostic pre-scan of the Skid Control ECU, Electronic Parking Brake system, and 12-volt auxiliary power systems to retrieve the stored DTC fault logs and freeze-frame data.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11736210,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/05/2026",
+      "dateComplaintFiled": "05/06/2026",
+      "vin": "JTMAAAAA7RA",
+      "components": "VEHICLE SPEED CONTROL,FORWARD COLLISION AVOIDANCE,VISIBILITY",
+      "summary": "The car show on the screen a message in regards to the Adaptative Cruise Control Malfunction and it\u2019s showing an orange sign light.. Another problem it\u2019s in regards the AC.. it\u2019s not working",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11735739,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/05/2026",
+      "dateComplaintFiled": "05/05/2026",
+      "vin": "JTMABACA6RA",
+      "components": "POWER TRAIN,ELECTRICAL SYSTEM",
+      "summary": "The contact owns a 2024 Toyota BZ4X. When pressing the accelerator toelerator pedal to go onto the freeway, the vehicle failed to accelerate and suddenly shifted to neutral. The contact would have to press the brake pedal, the contact would immediately shift the vehicle back to Drive and continue forward. While continuing to drive, the vehicle accelerated. There were no warning lights. The failure had occurred 3 times. When attempting to start the vehicle one day, the vehicle failed to start. The tow company came and provided a jump-start, and then advised the contact to drive carefully, but if it failed to go in reverse. The next morning,  the tow company's mechanic came again and confirmed battery failure, then recommended the vehicle be taken to the dealer. The vehicle was towed to the dealer, who stated that the battery had not failed, but had not provided a diagnosis for the failure. The vehicle had not been repaired. The dealer had driven the vehicle back to the contact's home. After the vehicle was returned, the failure occurred again. The manufacturer was informed, and a claim had been filed. The failure mileage was 9,787.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11735209,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/01/2025",
+      "dateComplaintFiled": "05/01/2026",
+      "vin": "JTMABACA7RA",
+      "components": "VISIBILITY",
+      "summary": "What component or system failed or malfunctioned, and is it available for inspection upon request? The HVAC system, specifically the electric A/C compressor, has failed. The system produces a loud grinding/buzzing noise and has been diagnosed by authorized Toyota dealerships as requiring full compressor replacement. The vehicle is available for inspection upon request.  How was your safety or the safety of others put at risk? This failure directly impacts the vehicle\u2019s defrost system, which is critical for maintaining windshield visibility. Reduced or failed defrost capability creates a safety hazard by impairing visibility while driving, increasing the risk of an accident.  Has the problem been reproduced or confirmed by a dealer or independent service center? Yes. The issue has been confirmed by multiple authorized Toyota dealerships, including Sheehy Toyota and Mike Calvert Toyota. Both independently diagnosed a failed A/C compressor requiring replacement.  Has the vehicle or component been inspected by the manufacturer, police, insurance representatives or others? Yes. The issue has been escalated to Toyota Corporate, and a case manager has reviewed the dealership findings. Documentation has been submitted to Toyota for warranty and goodwill consideration.  Were there any warning lamps, messages or other symptoms of the problem prior to the failure, and when did they first appear? Yes. A grinding/buzzing noise began when the A/C system was activated and was formally reported to Sheehy Toyota on October 27, 2025, while the vehicle was under warranty. The issue was not repaired at that time. The condition progressively worsened and resulted in confirmed compressor failure on March 25, 2026.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11699930,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/12/2025",
+      "dateComplaintFiled": "11/17/2025",
+      "vin": "JTMABACA6RA",
+      "components": "ELECTRICAL SYSTEM,FORWARD COLLISION AVOIDANCE",
+      "summary": "I LEASED A TOYOTA BZ4X  THE PARKING BRAKE LIGHTS AND OTHER LIGHTS COME ON AND OFF WHILE I AM DRIVING AND FOB IS NOT TOUCHED. I TOOK CAR IN TO BE SERVICE FOR REGULAR MAINTENANCE AND WAS TOLD I HAD TO PAY $295 AND I AM UNDER WARRANTY.  I WAS SOLD THE CAR BRAND NEW AND I DON'T THINK IT IS.  I KEEP HEARING PEOPLE TALKING WHEN THE CAR IS POWERED OFF. I REPORTED THIS SEVERAL TIMES AND WAS IGNORED. MY CAR KEEPS TRYING TO CUT OFF WHILE I AM DRIVING AND THE CAR STARTS SHAKING, ALL THE LIGHTS COME ON THEN GO OFF.  I WAS TOLD I COULD GET MY CAR SERVICE ANYWHERE FOR NO CHARGE UNDER WARRANTY. I WAS TURNED AWAY. ITS N BEEN  A YEAR AND NO SERVICE CAR HAS NOT BEEN SERVICED AT ALL. I TOOK IT 2 TIMES FOR SERVICE AND THE CAR HAS NOT BEEN SERVICE. IT IS SUPPOSED TO BE NEW.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11695462,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/16/2025",
+      "dateComplaintFiled": "10/24/2025",
+      "vin": "JTMAAAAA7RA",
+      "components": "ELECTRICAL SYSTEM,SERVICE BRAKES",
+      "summary": "The vehicle experienced repeated electrical and brake system malfunctions that pose serious safety concerns. On multiple occasions, the brake pedal became stiff and unresponsive while driving, and the parking brake system failed to engage properly. In addition, the ignition system often failed to start, even when the battery and all power indicators appeared normal.  At times, the vehicle\u2019s electrical system completely shut down without warning \u2014 causing loss of power functions, dashboard lights, and essential safety controls. These failures occur intermittently and unpredictably, making the vehicle unreliable and unsafe to operate.  The issue has been reported to the dealer for inspection, but the problem continues to occur. It appears to be related to the vehicle\u2019s electronic brake control and ignition system. This malfunction places the driver and others at potential risk, especially if the brake system or electrical components fail while the vehicle is in motion.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11692228,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/23/2025",
+      "dateComplaintFiled": "10/08/2025",
+      "vin": "JTMAAAAA2RA",
+      "components": "ELECTRICAL SYSTEM,WHEELS,LANE DEPARTURE",
+      "summary": "I am writing to formally report ongoing issues with my Toyota bZ4X that raise serious safety concerns. The vehicle has been inspected twice by authorized Toyota service centers, and each time I have been told that no problems were found. However, the following issues continue to persist: \u00a0\u00a0\u00a0\u00a01.\u00a0\u00a0\u00a0\u00a0Inaccurate Battery Readings: The electric system appears to malfunction regularly. The displayed battery percentage and estimated mileage are inconsistent and unreliable. For example, the battery may indicate a higher percentage while simultaneously showing a drastically reduced range, or vice versa. \u00a0\u00a0\u00a0\u00a02.\u00a0\u00a0\u00a0\u00a0Lane Departure Warning Malfunction: The lane departure system activates erratically, sometimes without any lane deviation. At other times, it fails to engage when it should, which compromises the vehicle\u2019s safety features. \u00a0\u00a0\u00a0\u00a03.\u00a0\u00a0\u00a0\u00a0Tire Pressure Monitoring System (TPMS) Alerts: Warning lights frequently come on indicating that the tires are losing pressure, even after verifying that tire pressures are within recommended levels. These warnings occur unpredictably and without cause.  Despite having the vehicle inspected twice, I have not received a resolution or acknowledgment of any defects. Toyota has stated that nothing is wrong with the vehicle, but the issues are ongoing and continue to impact the car\u2019s drivability and safety. These problems are not only frustrating but also present a potential risk while driving.  I am requesting that Toyota take this matter seriously, investigate the root cause of these electrical system malfunctions, and provide a resolution that ensures the vehicle operates safely and reliably.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11682437,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/19/2025",
+      "dateComplaintFiled": "08/22/2025",
+      "vin": "JTMAAAAAXRA",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "The 12 volt battery does not maintain a charge. I have had it replaced twice. I purchased new January 2025; first battery replaced on March 20, 2025; second battery replaced August 13, 2025. I am currently having the same issue with the battery management system which controls temperature and battery usage. After sitting overnight, I drove my car approximately three miles parked and attempted to use the key fob to secure the vehicle, it failed. I had no problem or indication at the start of my trip. I had to secure the door with my physical key. I returned to the vehicle 15 minutes later and the key fob would not work at all. I accessed the vehicle with the physical key. The alarm was activated upon entry. I tried to use my key fob to get the vehicle to deactivate the alarm system but it would not work. Approximately five minutes later and after several attempts, the alarm stopped and the vehicle was showing \u2018Ready\u2019 but \u2018No Key Detected\u2019 was flashing on the information screen and vehicle would not change mode from park to reverse or drive. After several attempts of holding the key fob directly over the \u2018START/STOP\u2019 button, the car showed \u2018 READY\u2019 and I was able to change modes. The vehicle started flashing \u2018NO KEY DETECTED\u2019 continuously while I quickly drove back home. I parked in my driveway and made an appointment with Toyota for service. Later in the day, I attempted my key fob again, to no avail. I was able to get the key detected, display showed \u2018Ready\u2019 and mode changed. My car does not start (READY) until after several attempts. The dealership advised the battery failed a load test overnight and was replaced (August 15th) After the second replacement my car sat overnight. I drove a few miles to a charging station. I placed the car in \u2018My Room Mode\u2019 to have access to the climate control system and radio. The car started flashing \u2018low voltage/battery\u2019, I turned off the accessory mode,  returned to the dealer, and awaiting resolution. Case filed with NCDS/CDSP.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11682285,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/20/2025",
+      "dateComplaintFiled": "08/21/2025",
+      "vin": "JTMAAAAA2RA",
+      "components": "SEATS,LANE DEPARTURE,VISIBILITY",
+      "summary": "I am very concerned about potential accidents for my self and others driving this vehicle. I have multiple close call accidents because the left view mirror does't have proper view to see cars on left side especially if they are close. The way seat and the side of the vehicle is shaped its very hard to still see manually with head turned to the left rear side. The mirror or the shape or position needs to be changed for safety to prevent accidents.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11681777,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/04/2025",
+      "dateComplaintFiled": "08/20/2025",
+      "vin": "JTMABACA8RA",
+      "components": "STRUCTURE",
+      "summary": "LEFT FRONT FENDER AND HOOD CONTACTED UPON GOING INTO A DIP IN THE ROAD DURNING ROAD CONTRUCTION PERFORMED BY BITUMINOUS ROADWAYS, INC.  DAMAGE TO FENDER AND HOOD. VEHICLE BODY AND OR FRAME WISTED. BROUGHT THE VEHICLE TO LAMETTRY'S IN BURNSVILLE MINNESOTA. THEY STAED THAT THE DIP IN THE ROAD MAY HAVE CAUSED THIS CONDITION AS SEEN FROM THE SCRAPE MARKS ON LATCH. TOYOTA DEALER INSPRSTION AND CASE OPENED. CRUNCH NOISE HEARD DURING INCIDENT.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11675770,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": true,
+      "fire": false,
+      "numberOfInjuries": 2,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/22/2025",
+      "dateComplaintFiled": "07/23/2025",
+      "vin": "JTMAAAAA6RA",
+      "components": "AIR BAGS",
+      "summary": "Driver sustained severe hand injuries due to airbag deployment while the hand was on the horn pad. Possible over-aggressive deployment or module failure. Incident occurred on [XXX], while driving a 2024 Toyota BZ4X (VIN: [XXX] ). Requesting formal investigation into the airbag system and front structural integrity of this vehicle model. INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11666897,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/06/2025",
+      "dateComplaintFiled": "06/14/2025",
+      "vin": "JTMABACA8RA",
+      "components": "STRUCTURE",
+      "summary": "On [XXX], while driving through a common roadway puddle at a safe speed, the front bumper on my BZ4X detached from the undercarriage shield and tore away from the clips. This type of damage is clearly disproportionate to the conditions and reflects a deficiency in structural design. After researching this issue, I found that many other BZ4X owners have experienced the same bumper detachment and undercarriage shield failure under minimal driving conditions. These consistent reports indicate a widespread manufacturing defect, not isolated driver error or negligence.  For example: On multiple owner forums and complaint sites like NHTSA.gov and Reddit, BZ4X owners have documented similar instances of bumpers tearing off from puddles or light snow.  A widely circulated post on Reddit\u2019s r/Toyota described a nearly identical issue, stating that \u201cdriving through a shallow puddle at a slow speed caused the bumper to rip off like paper.\u201d  The issue has even reached automotive press outlets and consumer advocate blogs, highlighting growing concern over the poor mounting of the bumper and the fragile undercarriage shield. Given the consistency and severity of these reports, this clearly represents a design flaw. The bumper is failing to withstand routine driving conditions, and this undermines not only the durability of the vehicle but also customer confidence and safety.  INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11664415,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/28/2025",
+      "dateComplaintFiled": "06/02/2025",
+      "vin": "JTMAAAAA5RA",
+      "components": "STRUCTURE",
+      "summary": "I was driving very slowly (5 to 10 MPH) through a rain storm on May 28th.  The water rose to about 6 inches (fairly still, not rushing water), and I heard a loud and alarming noise under the car.  I drove on for one block on a neighborhood street until I could get to higher ground.  I discovered that the force of the water pulled down the fabric and plastic shrouds from the wheel-well into the wheels.  The cloth and plastic shrouds were then pulled under the wheels, and the whole connected assembly was ripped off the car.  This caused damage to both front fenders, the front bumper, and possibly to the safety sensors behind the bumper.    I took it to my local Toyota dealer the next day, and they said this happens all the time, and that it will cost at least $2,000 to repair -- maybe double that if the safety sensors behind the bumper were damaged. I posted to some forums on-line about this problem, and heard from many other owners of the BZ4X and the identical car from Subaru (Soltera) that they had experienced the same thing.  The Toyota dealer is correct -- this happens all the time -- it is clearly a serious design flaw, and it is a serious safety concern.  The Toyota dealer has said that this is my problem, not theirs.  The Toyota USA customer-service said the same thing.  They clearly do not want to accept responsibility for a badly designed front-bumper assembly.  This car has less than 3,000 miles on it, and despite my extremely cautious driving, it is already falling apart.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11663632,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": true,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/20/2025",
+      "dateComplaintFiled": "05/29/2025",
+      "vin": "JTMABACA5RA",
+      "components": "STEERING,WHEELS,LANE DEPARTURE",
+      "summary": "Steering system, potentially related to electric power steering (EPS) or driver-assist systems (lane keeping or steering assist).  While completing a routine right-hand turn, my husband began to straighten the steering wheel when the steering system suddenly and sharply turned further right without any driver input. This caused the vehicle to strike a curb, damaging both passenger-side wheels and the front tire.  There were no warning lights or indicators, and road and weather conditions were normal. The uncommanded steering input appeared to come from the vehicle itself.  The incident resulted in loss of directional control and could have been severe had another vehicle, pedestrian, or cyclist been present. This behavior reflects a serious and unexpected failure in the steering or driver-assist system, posing a direct threat to driver and public safety.  I reported the incident to my local Toyota dealership. I have since signed Toyota\u2019s EDR (Event Data Recorder) consent form, and an official inspection has occurred but they haven't provided detail. They also did not make me aware the inspection was taking place and did it without coordination. They have not confirmed that this has happened before.  A similar, though less severe, issue occurred previously while I was driving on the highway. As I approached a merging lane to my right, the car suddenly pulled sharply to the right, seemingly misinterpreting the lane markings or misjudging its position. There were no vehicles next to me at the time, and I was able to regain control. While it did not result in a collision, it was alarming and appears to have been a driver-assist or steering control malfunction.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11654242,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/09/2025",
+      "dateComplaintFiled": "04/12/2025",
+      "vin": "JTMABACA9RA",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "The air conditioner/heat pump has went out twice in 5 months. AC compressor failure poses several safety risks, including the potential for fires, refrigerant leaks leading to health hazards, and increased humidity fostering mold and mildew growth, which can worsen indoor air quality and lead to respiratory issues. Causing concern of leaking refrigerant into the cabin of the vehicle could lead to cancer and death.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11653558,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/08/2025",
+      "dateComplaintFiled": "04/08/2025",
+      "vin": "JTMABACA3RA",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "Sparks coming out the charge port",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11650834,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "03/24/2025",
+      "dateComplaintFiled": "03/26/2025",
+      "vin": "JTMAAAAA1RA",
+      "components": "ELECTRICAL SYSTEM,SERVICE BRAKES,FUEL/PROPULSION SYSTEM",
+      "summary": "2024 BZ4x, 590 miles on ODO. Purchased the car on Sunday, 03/23/2025. Monday Morning - Turning on the Car (In my garage). I had it in \"ready\" while I tried to connect my Toyota app to the car, While talking to Toyota engagement for help.. (Never was able to change the primary driver on it.) The accessory lights flickered and a bell went on and off. Then the car went totally black. Toyota called a tow truck driver. He jumped the 12 volt. It gave it enough juice so I put in reverse and there was a Loud Grinding noise.  \"Brake System Malfunction- Take to Dealer.\" Tow truck loaded it up, grinding and all, took it to Toyota. There, found out the 12 volt battery died. No reported grinding when off loading or at the dealer. Toyota Dealer replaced the 12 volt battery on Monday 03/24/2025. Picked it up, drove it around about 40 miles and parked it in my garage.  Parked with >80% battery on Lith battery Monday night 21:00. Sat in the Garage on Tuesday. Wednesday Morning 08:00am,  12 Volt COMPLETLY DEAD. It's back at the dealership. MY safety concern - Does this mean the Brake system will \"malfunction\" if the 12 volt battery isn't holding enough charge to operate the BRAKE SYSTEM?! Not sure if it means the parking brake or the actual brakes.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11644322,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/22/2025",
+      "dateComplaintFiled": "02/22/2025",
+      "vin": "JTMABACA7RA",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "**Report to NHTSA \u2013 12-Volt Battery Issue in Toyota BZ4X**    **Vehicle Information:**   - **Make & Model:** Toyota BZ4X   - **Issue:** 12-Volt Battery Drain    **Description of the Problem:**   I have been experiencing repeated issues with the 12-volt battery in my Toyota BZ4X. If the vehicle is not driven for one or two days, the battery depletes, requiring a jump-start to operate.    I have taken the car to the dealership for inspection on two separate occasions\u2014once in November and again recently. On both visits, the dealer was unable to identify any issues. However, despite these inspections, the problem persists. Most recently, after taking the vehicle to the dealership, the car once again failed to start the following day and required another jump-start.    **Safety Concern:**   This recurring battery failure presents a significant safety risk, particularly if the vehicle becomes inoperable in a remote location or in an emergency situation. The inability to start the car reliably raises concerns about potential hazards, especially in extreme weather conditions or areas with limited access to assistance.    **Request for Investigation:**   I urge the NHTSA to investigate this issue further, as it affects the reliability and safety of the vehicle. A resolution is necessary to ensure that the 12-volt battery functions as intended without leaving drivers stranded.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11642584,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/03/2025",
+      "dateComplaintFiled": "02/13/2025",
+      "vin": "JTMAAAAAXRA",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "The contact owns a 2024 Toyota BZ4X. The contact stated that the battery failed to retain a charge, resulting in the doors not unlocking as needed. The contact stated that the dealer had previously replaced the battery, but the failure persisted. The vehicle was towed back to the dealer, who determined that the battery had failed again. The vehicle was not repaired and remained at the dealer. The manufacturer was not made aware of the failure. The failure mileage was approximately 12,389.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11618908,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/09/2024",
+      "dateComplaintFiled": "10/09/2024",
+      "vin": "JTMABACA0RA",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "On two occasions in the last month, when attempting to start the car, it doesn\u2019t start, the interior dash lights start flickering, and a notification displays stating, \u201cParking brake cannot be applied\u201d. I then have to \u201cjump\u201d the 12-volt battery. The main issue is the notification stating the parking brake cannot be applied because before shutting off the car the night before, I make sure the parking brake IS applied. However, it seems like the 12-volt battery is dead when I attempt to start it the following day; it automatically turns off the parking brake or at least notifies me that it is in error based on the message I receive.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11611201,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/16/2024",
+      "dateComplaintFiled": "08/27/2024",
+      "vin": "JTMABACA3RA",
+      "components": "STRUCTURE,UNKNOWN OR OTHER",
+      "summary": "Few days ago I was driving in the rain . suddenly i heard a scratching noise > i stopped the vehicle and looked underneath  i saw a plastic sheet hanging . this happened while driving on the flash of water and due to impact of water because toyota used a very cheap quality sheet underneath for protection with plastic bolts . i took the vehicle to the dealer ship and they refuse to fix it under warranty stating that it happened due to impact which is not covered. the cost is $550 to fix it. this all happened due to cheap quality  plastic sheet and not my fault . toyota should cover it under warranty.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11590865,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/23/2024",
+      "dateComplaintFiled": "05/27/2024",
+      "vin": "JTMAAAAAXRA",
+      "components": "TIRES",
+      "summary": "I was driving Right before MLK exit 285 southbound around 6:00 pm on 05\u201322-24 hit the biggest pot hole and my tire burst.tire size 235/50R201 had drive very slow to get of the exit on Campbellton to get tire shop fixe my tire.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        },
+        {
+          "type": "Tire",
+          "productYear": "9999",
+          "productMake": "UNKNOWN",
+          "productModel": "UNKNOWN",
+          "size": null,
+          "manufacturer": "UNKNOWN MANUFACTURER"
+        }
+      ]
+    }
+  ]
+}

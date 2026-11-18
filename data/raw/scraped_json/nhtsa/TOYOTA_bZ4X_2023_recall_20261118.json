@@ -1,0 +1,70 @@
+{
+  "Count": 4,
+  "Message": "Results returned successfully",
+  "results": [
+    {
+      "Manufacturer": "Toyota Motor Engineering & Manufacturing",
+      "NHTSACampaignNumber": "22V444000",
+      "parkIt": true,
+      "parkOutSide": false,
+      "overTheAirUpdate": false,
+      "ReportReceivedDate": "23/06/2022",
+      "Component": "WHEELS:HUB",
+      "Summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2023 Subaru Solterra and Toyota BZ4X vehicles.  The hub bolts on the wheels may loosen, causing a wheel to detach from the vehicle after low-mileage use.",
+      "Consequence": "A wheel detaching from a moving vehicle can result in a loss of vehicle control, increasing the risk of a crash.",
+      "Remedy": "Owners are advised not to drive their vehicles until they are repaired.  Dealers will replace the hub bolts and wheels, free of charge.  Letters notifying owners of the safety risk were mailed June 27, 2022.  A second letter will be sent once the remedy is available.  Owners may contact Toyota's customer service at 1-800-331-4331.",
+      "Notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.",
+      "ModelYear": "2023",
+      "Make": "TOYOTA",
+      "Model": "BZ4X"
+    },
+    {
+      "Manufacturer": "Gulf States Toyota, Inc.",
+      "NHTSACampaignNumber": "24V548000",
+      "parkIt": false,
+      "parkOutSide": false,
+      "overTheAirUpdate": false,
+      "ReportReceivedDate": "23/07/2024",
+      "Component": "EQUIPMENT:OTHER:LABELS",
+      "Summary": "Gulf States Toyota, Inc. (GST) is recalling certain Toyota 2023 GR Supra, 2024 4 Runner, Corolla, Grand Highlander, Grand Highlander Hybrid, Land Cruiser Hybrid, Tacoma, Tacoma Hybrid, 2023-2024 BZ4X, Corolla Cross Hybrid, GR Corolla, GR86, Highlander, Highlander Hybrid, Prius, Prius Prime, Sequoia Hybrid, Tundra, Tundra Hybrid, Venza Hybrid, 2023-2025 Crown, and 2025 Camry Hybrid vehicles equipped with GST accessories.  The load carrying capacity modification label may display inaccurate added weight values.  As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard number 110, \"Tire Selection and Rims.\"",
+      "Consequence": "A vehicle with an incorrect maximum capacity weight value may be overloaded, which can increase the risk of a crash.",
+      "Remedy": "GST will mail new labels to owners, free of charge.  Owner notification letters were mailed September 16, 2024.  Owners may contact GST customer service at 1-800-444-1074.  GST's number for this recall is 24R2.",
+      "Notes": "Owners may also contact the National Highway Traffic Safety Administration Vehicle Safety Hotline at 1-888-327-4236 (TTY 1-800-424-9153), or go to www.nhtsa.gov.",
+      "ModelYear": "2023",
+      "Make": "TOYOTA",
+      "Model": "BZ4X"
+    },
+    {
+      "Manufacturer": "Toyota Motor Engineering & Manufacturing",
+      "NHTSACampaignNumber": "25V577000",
+      "parkIt": false,
+      "parkOutSide": false,
+      "overTheAirUpdate": false,
+      "ReportReceivedDate": "04/09/2025",
+      "Component": "VISIBILITY:DEFROSTER/DEFOGGER/HVAC SYSTEM",
+      "Summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2023-2025 bZ4X, Lexus RZ, and Subaru Solterra vehicles. During certain HVAC system faults, such as electrical compressor failure, the defroster and defogger system may become inoperative.",
+      "Consequence": "An inoperative defroster and defogger system can decrease the driver's visibility under certain driving conditions, increasing the risk of a crash.",
+      "Remedy": "Dealers will update the HVAC control ECU software, free of charge. Dealers will also inspect the electrical compressor, and replace it, if necessary, free of charge. Owner notification letters were mailed October 17, 2025. Owners may contact Toyota's customer service at 1-800-331-4331. Toyota's numbers for this recall are 25TB07 and 25TA07. Lexus' numbers for this recall are 25LB04 and 25LA04. Subaru's number for this recall is WRD-25.",
+      "Notes": null,
+      "ModelYear": "2023",
+      "Make": "TOYOTA",
+      "Model": "BZ4X"
+    },
+    {
+      "Manufacturer": "Toyota Motor Engineering & Manufacturing",
+      "NHTSACampaignNumber": "25V744000",
+      "parkIt": false,
+      "parkOutSide": false,
+      "overTheAirUpdate": false,
+      "ReportReceivedDate": "30/10/2025",
+      "Component": "BACK OVER PREVENTION:DISPLAY FUNCTION",
+      "Summary": "Toyota Motor Engineering & Manufacturing (Toyota) is recalling certain 2022-2026 Toyota, Lexus, and Subaru Solterra vehicles equipped with a Panoramic View Monitor (PVM) system. Please see the recall report for a complete list of models. A software error may cause the rearview camera to freeze or display a blank screen when the vehicle is in reverse. As such, these vehicles fail to comply with the requirements of Federal Motor Vehicle Safety Standard (FMVSS) number 111, \"Rear Visibility.\"",
+      "Consequence": "A rearview camera that fails to display an image can reduce the driver's view behind the vehicle, increasing the risk of a crash.",
+      "Remedy": "Dealers will update the parking assist software, free of charge. Owner letters were mailed January 2, 2026. Owners may contact Toyota's customer service at 1-800-331-4331. Toyota's numbers for this recall are 25TB13 and 25LB06. Subaru's number for this recall is WRE25.",
+      "Notes": null,
+      "ModelYear": "2023",
+      "Make": "TOYOTA",
+      "Model": "BZ4X"
+    }
+  ]
+}

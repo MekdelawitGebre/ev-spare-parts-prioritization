@@ -1,0 +1,31 @@
+record_id,source_id,vehicle_raw,part_raw,query_text,performed_on,n_results_seen
+SL-0001,S08,BYD Seagull,Brake pads front set,BYD Seagull brake pads,2026-11-18,2
+SL-0002,S08,BYD Seagull,Brake disc front rotor,BYD Seagull brake disc,2026-11-18,2
+SL-0003,S08,BYD Seagull,Cabin air pollen filter,BYD Seagull cabin filter,2026-11-18,0
+SL-0004,S08,BYD Seagull,Wiper blade set front,BYD Seagull wiper,2026-11-18,0
+SL-0005,S08,BYD Seagull,Headlight assembly front LED,BYD Seagull headlight,2026-11-18,12
+SL-0006,S08,BYD Seagull,Tail light assembly rear,BYD Seagull tail light,2026-11-18,4
+SL-0007,S08,BYD Seagull,Side mirror assembly door,BYD Seagull side mirror,2026-11-18,2
+SL-0008,S08,BYD Seagull,Front bumper cover fascia,BYD Seagull bumper,2026-11-18,7
+SL-0009,S08,BYD Seagull,Front fender body panel wing,BYD Seagull fender,2026-11-18,3
+SL-0010,S08,BYD Seagull,Shock absorber strut front,BYD Seagull shock absorber,2026-11-18,1
+SL-0011,S08,BYD Yuan Up,Brake pads front set,BYD Yuan Up brake pads,2026-11-18,1
+SL-0012,S08,BYD Yuan Up,Brake disc front rotor,BYD Yuan Up brake disc,2026-11-18,1
+SL-0013,S08,BYD Yuan Up,Cabin air pollen filter,BYD Yuan Up cabin filter,2026-11-18,0
+SL-0014,S08,BYD Yuan Up,Wiper blade set front,BYD Yuan Up wiper,2026-11-18,0
+SL-0015,S08,BYD Yuan Up,Headlight assembly front LED,BYD Yuan Up headlight,2026-11-18,9
+SL-0016,S08,BYD Yuan Up,Tail light assembly rear,BYD Yuan Up tail light,2026-11-18,2
+SL-0017,S08,BYD Yuan Up,Side mirror assembly door,BYD Yuan Up side mirror,2026-11-18,4
+SL-0018,S08,BYD Yuan Up,Front bumper cover fascia,BYD Yuan Up bumper,2026-11-18,6
+SL-0019,S08,BYD Yuan Up,Front fender body panel wing,BYD Yuan Up fender,2026-11-18,3
+SL-0020,S08,BYD Yuan Up,Shock absorber strut front,BYD Yuan Up shock absorber,2026-11-18,1
+SL-0021,S08,Volkswagen ID.4,Brake pads front set,Volkswagen ID.4 brake pads,2026-11-18,1
+SL-0022,S08,Volkswagen ID.4,Brake disc front rotor,Volkswagen ID.4 brake disc,2026-11-18,1
+SL-0023,S08,Volkswagen ID.4,Cabin air pollen filter,Volkswagen ID.4 cabin filter,2026-11-18,0
+SL-0024,S08,Volkswagen ID.4,Wiper blade set front,Volkswagen ID.4 wiper,2026-11-18,0
+SL-0025,S08,Volkswagen ID.4,Headlight assembly front LED,Volkswagen ID.4 headlight,2026-11-18,4
+SL-0026,S08,Volkswagen ID.4,Tail light assembly rear,Volkswagen ID.4 tail light,2026-11-18,1
+SL-0027,S08,Volkswagen ID.4,Side mirror assembly door,Volkswagen ID.4 side mirror,2026-11-18,1
+SL-0028,S08,Volkswagen ID.4,Front bumper cover fascia,Volkswagen ID.4 bumper,2026-11-18,4
+SL-0029,S08,Volkswagen ID.4,Front fender body panel wing,Volkswagen ID.4 fender,2026-11-18,1
+SL-0030,S08,Volkswagen ID.4,Shock absorber strut front,Volkswagen ID.4 shock absorber,2026-11-18,0

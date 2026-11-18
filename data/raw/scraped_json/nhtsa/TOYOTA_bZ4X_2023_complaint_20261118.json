@@ -1,0 +1,168 @@
+{
+  "count": 7,
+  "message": "Results returned successfully",
+  "results": [
+    {
+      "odiNumber": 11776698,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/06/2026",
+      "dateComplaintFiled": "11/09/2026",
+      "vin": "JTMABACA8PA",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "The contact owns a 2023 Toyota BZ4X. The contact stated while at a stop light and depressing the accelerator pedal, there was an abnormally loud sound coming from the vehicle. Additionally, the contact stated that after the A/C system was turned off, the A/C system independently reactivated. The EV System Malfunction warning light was illuminated. A dealer was contacted. The manufacturer was notified of the failure. The approximate failure mileage was 23,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2023",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11768022,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/30/2026",
+      "dateComplaintFiled": "09/30/2026",
+      "vin": "JTMABACA2PA",
+      "components": "VISIBILITY",
+      "summary": "The contact owns a 2023 Toyota BZ4X. The contact received notification of NHTSA Campaign Number: 25V577000 (Visibility); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The contact stated that the A/C unit was not working properly. The vehicle was taken to the dealer, and it was determined that the compressor had failed and caused the AC unit to fail to perform as needed. The compressor was causing a loud electrical humming sound inside and outside the vehicle. The vehicle remained at the dealership waiting for approximately one and a half months for the repair. The failure mileage was approximately 40,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2023",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11733142,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/18/2026",
+      "dateComplaintFiled": "04/22/2026",
+      "vin": "JTMABACA7PA",
+      "components": "STRUCTURE",
+      "summary": "While driving on the highway under normal conditions with no road hazards present, the engine under cover (part #51441-42210) detached from my vehicle and the bumper clips broke, causing both the under cover and bumper to become damaged and requiring replacement. There was no collision, no debris, no pothole, or any other road hazard involved. The failure occurred solely under routine highway driving conditions. Upon taking the vehicle to my Toyota dealership, the service team acknowledged this is a known and recurring issue with the bZ4X model. Research and owner forums confirm multiple 2023 bZ4X owners have experienced the identical failure \u2014 undercarriage cover and bumper detachment under normal driving and rain conditions. Toyota dealers have repeatedly told affected owners \u2018this happens all the time,\u2019 yet Toyota refuses to cover repairs under warranty, claiming it is not a manufacturing defect. I believe this represents a systematic design or manufacturing defect in the 2023 Toyota bZ4X. The undercarriage cover and bumper mounting system fails under normal driving conditions, which poses a safety risk to the driver and other vehicles on the road. I am requesting a formal investigation into this issue and urge NHTSA to consider a recall to protect other bZ4X owners.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2023",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11728838,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/25/2025",
+      "dateComplaintFiled": "04/02/2026",
+      "vin": "JTMAAAAA7PA",
+      "components": "VISIBILITY",
+      "summary": "The contact owns a 2023 Toyota BZ4X. The contact stated that the vehicle was awaiting a recall repair. The dealer informed the contact that the electrical HVAC compressor needed to be replaced as part of the recall repair; however, the part was on back order. The vehicle was taken to the dealer, but the recall repair was not completed. The manufacturer was notified of the failure. The approximate failure mileage was 117,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2023",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11708823,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/15/2025",
+      "dateComplaintFiled": "01/05/2026",
+      "vin": "JTMABACA6PA",
+      "components": "VISIBILITY",
+      "summary": "The contact owns a 2023 Toyota BZ4X. The contact had attempted to use the defroster; however, the blower was not blowing hot air onto the windshield. The contact had received notification of NHTSA Campaign Number: 25V577000 (Visibility); however, when the dealer was contacted to schedule a recall repair, the contact was informed that the part to do the recall repair was on national back order. The contact called another dealer and the manufacturer, and was informed by both that the part was on national back order. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The failure mileage was approximately 55,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2023",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11708384,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/01/2025",
+      "dateComplaintFiled": "01/02/2026",
+      "vin": "",
+      "components": "TIRES",
+      "summary": "The contact owns a 2023 Toyota BZ4X equipped with Goodyear Tires, Tire Line: Electric Drive 2, Tire Size: 215/50/R20, DOT Number: (N/A). The contact stated that while driving at various speeds above 50 MPH, the vehicle experienced severe shaking and abnormal vibration. The vehicle was taken to the local service center who determined that the foam pad inside the tire had malfunctioned. The foam was replaced, and the tires were balanced, but later the same failure reoccurred on the rear passenger\u2019s side tire. The vehicle was taken to the local dealer for repair. No further information was available. The manufacturer was not notified of the failure. The failure mileage was unknown. The VIN was not available.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2023",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        },
+        {
+          "type": "Tire",
+          "productYear": "9999",
+          "productMake": "GOODYEAR",
+          "productModel": "CONVENIENCE SPARE",
+          "size": "T155/70D17",
+          "manufacturer": "Goodyear Tire & Rubber Company"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11690353,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/22/2025",
+      "dateComplaintFiled": "09/29/2025",
+      "vin": "JTMABACA7PA",
+      "components": "SUSPENSION,WHEELS",
+      "summary": "Premature and abnormal tire wear on my 2023 Toyota bZ4X, confirmed by two independent tire shops, despite consistent Toyota dealer maintenance every 6,000 miles. Beaverton Toyota dealer dismissed the condition as \u201cnormal,\u201d but both [XXX]  and Discount Tire documented unsafe tire wear caused by alignment.   ---  Details of Problem:  Vehicle serviced exclusively at Toyota dealer (Beaverton Toyota, OR) every 6,000 miles, with multipoint inspections and rotations.  On 9/22/25, Toyota dealer inspected the vehicle and reported that alignment and tires were \u201cnormal.\u201d  On 9/25/25, [XXX]  inspected the vehicle and documented severe outside shoulder wear on the right-side tires. They recommended immediate tire replacement for safety. Alignment was also adjusted at that time to bring values into balance (report attached).  On 9/27/25, Discount Tire replaced all four tires at 27,562 miles. Their written notes confirm edges were worn on all four tires due to alignment (right side more prominent). They declared the tires unsafe for continued use and recommended full replacement.   Safety Concern: This abnormal alignment-related wear created unsafe driving conditions well before the rated tire life (55,000 miles). Uneven edge wear and shoulder failure increase the risk of blowouts, hydroplaning, or sudden loss of control.  Attachments available:  Toyota dealer report stating \u201cnormal\u201d  Les Schwab alignment printout and written safety note  Discount Tire invoice with technician safety comments  Tire photos (all four corners)  Full Toyota dealer service history  INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2023",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "count": 5,
+  "message": "Results returned successfully",
+  "results": [
+    {
+      "odiNumber": 11735351,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/08/2026",
+      "dateComplaintFiled": "05/03/2026",
+      "vin": "JTMABACA6SA",
+      "components": "ELECTRICAL SYSTEM,ENGINE",
+      "summary": "The front drive motor went out",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2025",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11706584,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": true,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/19/2025",
+      "dateComplaintFiled": "12/22/2025",
+      "vin": "JTMABACA5SA",
+      "components": "STEERING,SERVICE BRAKES",
+      "summary": "While driving the road was wet the vehicle brake failure and the steering wheels stopped  completely lost control of the vehicle and keep running over the curb and hit moving vehicle",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2025",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11701082,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/05/2025",
+      "dateComplaintFiled": "11/23/2025",
+      "vin": "jtmabaca7sa",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "I just bought the toyota bz4x about 2 weeks run 1000 miles start knocking noise rear wheels, and then I brought to dealer ship , they can not repair , they told me to wait for corperate call, but right now knocking sound get in more, I want to recall, because I want get refund",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2025",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11700668,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/12/2025",
+      "dateComplaintFiled": "11/20/2025",
+      "vin": "JTMABACA7SA",
+      "components": "SUSPENSION,WHEELS,UNKNOWN OR OTHER",
+      "summary": "toyota bz4x 2025 ran 600 miles ony knocking noise over un road more so from the rear wheels driving 10 MPH",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2025",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    },
+    {
+      "odiNumber": 11700678,
+      "manufacturer": "Toyota Motor Corporation",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/12/2025",
+      "dateComplaintFiled": "11/20/2025",
+      "vin": "jtmabaca7sa",
+      "components": "SUSPENSION,WHEELS,UNKNOWN OR OTHER",
+      "summary": "a client states there is a knocking noise over un road more so from the rear wheels driving @ 10 MPH believes more so R/R wheel . they already fix two time , but still more knoking soung, the dealership service can not fix",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2025",
+          "productMake": "TOYOTA",
+          "productModel": "BZ4X",
+          "manufacturer": "Toyota Motor Corporation"
+        }
+      ]
+    }
+  ]
+}

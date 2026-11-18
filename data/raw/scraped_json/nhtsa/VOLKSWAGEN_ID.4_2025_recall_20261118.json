@@ -1,0 +1,38 @@
+{
+  "Count": 2,
+  "Message": "Results returned successfully",
+  "results": [
+    {
+      "Manufacturer": "Volkswagen Group of America, Inc.",
+      "NHTSACampaignNumber": "26V030000",
+      "parkIt": false,
+      "parkOutSide": false,
+      "overTheAirUpdate": false,
+      "ReportReceivedDate": "22/01/2026",
+      "Component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
+      "Summary": "Volkswagen Group of America, Inc. (Volkswagen) is recalling certain 2023-2025 ID.4 vehicles. The high-voltage battery may overheat.",
+      "Consequence": "A high-voltage battery that overheats increases the risk of a fire.",
+      "Remedy": "Dealers will update the high-voltage battery software, and replace the high-voltage battery, as necessary, free of charge. Owner notification letters were mailed March 18, 2026. Owners may contact Volkswagen customer service at 1-800-893-5298. Volkswagen's number for this recall is 93EA. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on January 23, 2026.",
+      "Notes": null,
+      "ModelYear": "2025",
+      "Make": "VOLKSWAGEN",
+      "Model": "ID.4"
+    },
+    {
+      "Manufacturer": "Volkswagen Group of America, Inc.",
+      "NHTSACampaignNumber": "26V630000",
+      "parkIt": false,
+      "parkOutSide": false,
+      "overTheAirUpdate": false,
+      "ReportReceivedDate": "01/10/2026",
+      "Component": "ELECTRICAL SYSTEM:PROPULSION SYSTEM:TRACTION BATTERY",
+      "Summary": "Volkswagen Group of America, Inc. (Volkswagen) is recalling certain 2023-2026 ID.4 vehicles. The high voltage battery may fail and lead to a vehicle fire.",
+      "Consequence": "A vehicle fire increases the risk of injury.",
+      "Remedy": "Owners are advised to only charge their vehicles to a maximum of 80% battery capacity until the repair has been completed. The remedy is currently under development. Interim letters, notifying owners of the safety risk, are expected to be mailed November 27, 2026. Additional letters will be sent once the remedy is available. Owners may contact Volkswagen customer service at 1-800-893-5298. Volkswagen's number for this recall is 93EX. Vehicle Identification Numbers (VINs) involved in this recall became searchable on NHTSA.gov on October 6, 2026.",
+      "Notes": null,
+      "ModelYear": "2025",
+      "Make": "VOLKSWAGEN",
+      "Model": "ID.4"
+    }
+  ]
+}

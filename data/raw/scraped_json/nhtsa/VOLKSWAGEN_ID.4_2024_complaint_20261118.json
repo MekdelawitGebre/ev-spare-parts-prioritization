@@ -1,0 +1,1194 @@
+{
+  "count": 54,
+  "message": "Results returned successfully",
+  "results": [
+    {
+      "odiNumber": 11775852,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/27/2026",
+      "dateComplaintFiled": "11/05/2026",
+      "vin": "1V2BMPE8XRC",
+      "components": "ELECTRICAL SYSTEM,FUEL/PROPULSION SYSTEM",
+      "summary": "Volkswagen offered an optional temporary 80% battery charge limit in the myVW app under recall 93EX (NHTSA 26V630). I declined it in the app. The vehicle charged to 100% for a few days after my decline. On October 27, 2026 the vehicle defaulted to an 80% target charge without my consent. I cannot change it back to 100% in the myVW app and I cannot change it back to 100% in the vehicle menu. I contacted Volkswagen corporate on October 28, 2026 and received no resolution. Volkswagen also did not answer my follow-up email by its November 4, 2026 deadline. The 80% limit substantially reduces usable range and the vehicle no longer covers my commute without an extra charging stop of about 30 minutes. Volkswagen has no permanent remedy date for this recall. Requested action: NHTSA should require Volkswagen to honor recorded owner declines, restore control to owners who said no, and explain how many declined vehicles were overridden.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11773186,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/19/2026",
+      "dateComplaintFiled": "10/23/2026",
+      "vin": "1V2VRPE86RC",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "This has happened twice in the past 10 days. The vehicle gear selector freezes and cannot be put in D, B, P, N, etc. The only way out of the situation is to get out of the vehicle, get back in, close the door and put the foot on the break pedal. Here is how this is extremely dangerous. In one case, I had backed up out of the driveway to get in the street to leave. Freezing of the gear selector occurred while I was halfway in the street in the path of the traffic. I could have been hit by oncoming traffic. Luckily, it was not a busy road, and only one vehicle came by and stopped safely. In the other instance, it occurred in a shopping center parking lot.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11773238,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/21/2026",
+      "dateComplaintFiled": "10/23/2026",
+      "vin": "1V2VRPE89RC",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "The exterior handle on the driver\u2019s door of my 2024 Volkswagen ID.4 has failed. I live in [XXX]. And on the first day of rain this season, it stopped opening the door from the outside completely. The other doors work normally. I have to enter through the passenger door and open the driver\u2019s door from inside.  The failure started when it rained, so water likely got into the handle electronics. This looks like the same problem covered by Volkswagen recall 57J9, which included 2024 ID.4 models. Either the recall repair did not fix it on my car, or my car was missed.  This is a safety concern: in an emergency, the driver\u2019s door could not be opened from outside to help the driver. INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11771799,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/16/2026",
+      "dateComplaintFiled": "10/17/2026",
+      "vin": "1V2DSPE89RC",
+      "components": "STEERING,POWER TRAIN,ELECTRICAL SYSTEM",
+      "summary": "I am reporting recurring drive system and electrical system problems with my leased 2024 Volkswagen ID.4. This is the fourth occurrence of vehicle problems in less than two years, despite previous dealership repairs.  On [XXX], after approximately nine months without problems, the vehicle again displayed fault warnings. The Volkswagen app\u2019s Powertrain diagnostic section states: \u201cError: Drive system. Please service vehicle\u201d and \u201cElectrical system not working correctly. Please service vehicle.\u201d The cause of this latest occurrence has not yet been diagnosed. I plan to take the vehicle to the dealership during the coming week.  My safety concern is based on previous incidents involving unexpected shutdowns while driving. During one incident last year, I was traveling approximately 40 mph with my family when the vehicle suddenly jerked violently and came to a complete stop in the roadway. A battery overheating warning appeared during that incident. The vehicle subsequently remained at AutoNation Volkswagen in Buford, Georgia, for nearly a month for repairs. An earlier shutdown also required towing.  The return of drive system and electrical warnings after previous repairs raises serious concerns about another unexpected loss of propulsion or sudden stop in traffic, which could result in a collision and endanger my family and other road users.  I have videos, photographs, previous correspondence with Volkswagen, and repair records available to support this complaint. I have requested that Volkswagen reopen my previous case. I am asking NHTSA to review these recurring safety concerns.  INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11771014,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/13/2026",
+      "dateComplaintFiled": "10/14/2026",
+      "vin": "1V2BMPE88RC",
+      "components": "UNKNOWN OR OTHER,VISIBILITY/WIPER,BACK OVER PREVENTION",
+      "summary": "The central display of this 2024 VW Id.4 on random drives will refuse to light up. The following features are no longer able to be used: parking sensors (they don't show up when put into reverse), ac controls (no way to manage fan speed or turn on and off, no defrost), ADAS systems (no way to change any settings), no warnings prior to entry or exiting the vehicle (no chime). Dealership says they were unable to replicate the issue and the car issued no codes. Since then there are 5 different records showing with time stamp video showing the vehicle exhibiting the exact same faults. The car completed all safety recalls and there are no messages or warnings on the dash.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11769964,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/12/2026",
+      "dateComplaintFiled": "10/08/2026",
+      "vin": "1V2BMPE86RC",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "Dealer canceled my scheduled recall service twice arguing backlog. Indicated they have no solution but did not provide any alternative arrangements.   I have been waiting for my car to be serviced to fix urgent safety recall regarding potential fire from EV battery. This is a severe hazard.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11748156,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": true,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/30/2026",
+      "dateComplaintFiled": "07/03/2026",
+      "vin": "1v2crpe82rc",
+      "components": "ELECTRICAL SYSTEM,SERVICE BRAKES,FORWARD COLLISION AVOIDANCE",
+      "summary": "While attempting to park in my driveway, the vehicle experienced a complete loss of braking. The brake pedal did not stop the vehicle, and pressing the electronic parking brake switch had no effect. The vehicle continued forward and crashed through my closed garage door. The only reason it stopped was because it struck another vehicle parked inside my garage. That impact pushed the parked vehicle into my garage refrigerator, which then damaged the drywall on the garage wall adjacent to my bedroom. None of the safety systems functioned as expected. The parking sensors did not activate, there were no proximity warnings, and the automatic emergency braking system did not engage. After the crash, I exited the vehicle, but it remained powered on instead of shutting down automatically. It only turned off after I got back into the vehicle and exited multiple times. This incident involved a total loss of hydraulic and regenerative braking, an unresponsive electronic parking brake switch, failure of the parking sensors and automatic emergency braking, and failure of the high-voltage shutdown sequence upon driver exit, resulting in a structural collision. The vehicle has been towed to the dealership and is available for inspection. I am awaiting the dealership's diagnosis and have also reported the incident to my insurance company. No warning lights or messages appeared before the failure. This malfunction created a serious safety hazard and could have resulted in severe injury or death if anyone had been in the vehicle's path.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11747010,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/27/2026",
+      "dateComplaintFiled": "06/28/2026",
+      "vin": "1V2WSPE85RC",
+      "components": "ELECTRICAL SYSTEM,VEHICLE SPEED CONTROL,FUEL/PROPULSION SYSTEM",
+      "summary": "Vehicle was being driven at highway speed when loss of power occurred, vehicle moved to side of road and would not restart. Performed 12v capacitve procedure with no change. Hazard lights would not function, other 12v systems remained on.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11739204,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/13/2026",
+      "dateComplaintFiled": "05/21/2026",
+      "vin": "1V2VRPE84RC",
+      "components": "ELECTRICAL SYSTEM,UNKNOWN OR OTHER",
+      "summary": "Recall 91VH causes some cars to break carnet modules and other modules. If you google the issues, you will find that Recall 91VH (5.4.3) causes multiple cars to break. We should not have to appeal and plead with VW on a 2 year old vehicle to get it fixed. This puts saftey at risk as it causes multiple malfunctions and warning lamps to appear. The dealer says to replace the module, but VW denies the modules are affected by the update.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11729298,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/05/2026",
+      "dateComplaintFiled": "04/05/2026",
+      "vin": "1V25MPE8XRC",
+      "components": "ELECTRICAL SYSTEM,UNKNOWN OR OTHER,FUEL/PROPULSION SYSTEM",
+      "summary": "I am reporting an unresolved safety recall (NHTSA 26V030, Volkswagen recall 93EA) involving a high-voltage battery defect with potential risk of fire.  My vehicle (VIN: [XXX] ) was purchased in the United States but is currently located in Santo Domingo, Dominican Republic.  The authorized Volkswagen distributor in the Dominican Republic has confirmed they are unable to perform the recall repair, as they do not service electric vehicles.  As a result, I am operating a vehicle with a known safety defect and no available remedy, despite this being an active safety recall.  I have contacted Volkswagen and requested assistance, but currently no solution has been provided.  I am requesting guidance and intervention regarding how manufacturers are expected to address safety recalls for U.S.-sold vehicles located outside the country. INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11723984,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/26/2026",
+      "dateComplaintFiled": "03/12/2026",
+      "vin": "1V2WSPE8XRC",
+      "components": "ELECTRICAL SYSTEM,EXTERIOR LIGHTING,STRUCTURE",
+      "summary": "The vehicle has a recurring door handle/door lock malfunction associated with Volkswagen safety recall 57J9. Symptoms include the vehicle unlocking and immediately re-locking, auto-unlock failure, and difficulty entering the vehicle. All four door handles were previously replaced under the recall (Feb 2025), but the malfunction recurred.  On 01/26/2026 I delivered the vehicle to a Volkswagen dealer for recall repair; it was fully drivable at drop-off. During the recall-related software/coding procedure, the dealer reported the procedure could not be completed because the software would not accept the currently installed headlamp modules. A manufacturer Techline case was opened (SK-1561187) and the dealer reported they were advised to replace both headlamp assemblies due to part number incompatibility.  After the attempted recall procedure/diagnostics, the vehicle became not drivable and has remained at the dealer continuously for over 30 business days. The manufacturer later denied warranty coverage and closed the case unless the owner pays to replace headlamps (approx. $3,887.79) in order to complete the recall procedure. The door locking/entry malfunction and inability to complete a safety recall repair creates a safety risk (potential inability to enter/exit and vehicle immobilization after recall service). The vehicle is available for inspection at the dealer.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11720184,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/01/2025",
+      "dateComplaintFiled": "02/24/2026",
+      "vin": "1V25MPE85RC",
+      "components": "FUEL/PROPULSION SYSTEM",
+      "summary": "VW recall on ID 4 for battery range dropping under the listed battery range. Know recall on battery without any solution. Local VW dealership in Thousand Oaks, CA without any solution. Driving 45 miles with 100% charged battery will drop the battery by 60+ miles. Battery range drops an average of 3-4 miles per 1 mile driven. Notified dealership of issue 1 day after vehicle purchase.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11714943,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/30/2026",
+      "dateComplaintFiled": "02/02/2026",
+      "vin": "1V2WSPE89RC",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "Car was plugged in to our home level 2 charger waiting to charge (no current was being supplied yet). Alarm went off, I went into our attached garage and checked on it. Heard a high pitch beeping coming from the car, went into it and saw this message (see attached picture). Took picture while waiting for garage door to open so I could back car out of garage and as far down our driveway as possible.  Called fire department and then disconnected high voltage battery from under the hood. FD arrived and didn't really know what to do. Alarm continued to go off. Eventually a flatbed arrived and I had it delivered to our local dealer.  We use this car in rural VT. The weather right now is single digits or below. We regularly use this to transport our one year old. Had this not happened at home but on a drive, this certainly could have been a much, much worse situation.  The car is currently at the dealer waiting to be looked at. The person said I Was the third ID4 to come in over the weekend. They are not currently providing us with a loaner even though we requested one.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11712493,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/20/2026",
+      "dateComplaintFiled": "01/21/2026",
+      "vin": "1V25MPE85RC",
+      "components": "LANE DEPARTURE,BACK OVER PREVENTION",
+      "summary": "Car screen froze no parking sensors or rear view camera, lane assist etc. for hours.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11710299,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/01/2025",
+      "dateComplaintFiled": "01/12/2026",
+      "vin": "1V2WSPE81RC",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "I own one of 311 vehicles specifically identified in this recall regarding \"misaligned electrodes\" and \"shifted cathodes\" in the high-voltage battery. I am formally requesting that Volkswagen replace all battery modules within the high-voltage pack of the affected 311 vehicles for the following reasons: 1. Systemic Manufacturing Deviation: The identified root cause\u2014faulty stacker machines at the SK On facility\u2014points to a systemic mechanical failure rather than an isolated material defect. Given that these machines were responsible for the layering and alignment of the entire pack, there is no reasonable assurance that the remaining \"unflagged\" modules do not possess latent alignment deviations that simply haven't triggered a diagnostic flag yet. 2. Safety and Fire Risk: The defect in question is not a performance issue but a critical safety hazard capable of causing thermal runaway. Partial replacement leaves the vehicle owner with a \"mixed\" battery pack, where older modules may still harbor the same manufacturing inconsistencies, continuing to pose a fire risk to the occupants and the property where the vehicle is parked. 3. Battery Imbalance and Longevity: Replacing only a subset of modules introduces a significant discrepancy in state-of-health (SoH) and internal resistance between new and old modules. This imbalance can lead to accelerated degradation of the remaining modules, reduced driving range, and repeated \"Service Required\" visits, as evidenced by other EV owners undergoing similar partial module recalls. 4. Diminished Value and Consumer Confidence: The \"311 units\" designation suggests a high concentration of risk. A vehicle with a history of multiple \"surgical\" battery repairs due to manufacturing-induced fire risks suffers significantly higher depreciation than those with a factory certified, fully replaced battery system. With 7618 miles it has been in for service 8 times and has had electronic issues for the past 5 visits that are still unresolved.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11707229,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/26/2025",
+      "dateComplaintFiled": "12/27/2025",
+      "vin": "1V2WSPE84RC",
+      "components": "VISIBILITY/WIPER",
+      "summary": "Wipers suddenly stopped working during blizzard.  Extremely dangerous  There's online posts about 2024 vw id4 saying this happens often",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11706702,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/06/2025",
+      "dateComplaintFiled": "12/23/2025",
+      "vin": "1V25MPE85RC",
+      "components": "UNKNOWN OR OTHER,SERVICE BRAKES",
+      "summary": "The vehicle's emergency communication system (SOS button) and CarNet connectivity completely failed, disabling critical safety features. \u200bRepair History: \u200bFirst Attempt: The vehicle was at the authorized dealer (Volkswagen of Union, NJ) for 2 days. They replaced a communication module but released the vehicle to me with the SOS system still non-functional and without verifying the repair. \u200bCurrent Status: The vehicle has been back at the same dealership for over 14 days (Total cumulative days out of service: 16+ days). \u200bThe dealer has failed to fix the safety defect and also refuses to address a persistent internal brake pedal noise, dismissing it without proper diagnosis. This vehicle is currently unsafe to drive as it cannot contact emergency services in the event of a crash",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11706295,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": true,
+      "fire": false,
+      "numberOfInjuries": 1,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "12/19/2025",
+      "dateComplaintFiled": "12/20/2025",
+      "vin": "1V25MPE80RC",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "I was parking , I had my foot on the brake. I was at the parking curb stopped and my vehicle fully ecellerated , full speed crashing me into the building infront of me. the vehicle would not turn off even after exiting. this happened before however I only hit the curb as there was nothing else to hit. Im terrified. This could have EASILY KILLED SOMEONE.  someone needs to review the data recorder in this vehicle IMMEDIATELY",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11703601,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/14/2025",
+      "dateComplaintFiled": "12/07/2025",
+      "vin": "1V2WSPE84RC",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "I purchased this 2024 Volkswagen ID.4 as a Certified Pre-Owned vehicle, and the electrical issues began almost immediately after taking ownership. While driving, the main infotainment display will suddenly reset, freeze, or go completely blank. Sometimes the instrument cluster also flickers or freezes during these events. At the same time, I received a \u201c12V battery limited, please drive with care\u201d warning. When the center screen resets while the vehicle is in motion, I temporarily lose access to important driving information such as the backup camera, vehicle status, sound alerts, and sometimes the speedometer. These failures create a safety concern because they remove visibility of warning indicators and essential driving data. The 12-volt system warnings also raise concern that the vehicle may lose power to critical control modules or experience a sudden electrical shutdown. The issues are intermittent but recurring, and started immediately after purchasing the vehicle CPO, which suggests the defect existed before I acquired the car. This appears consistent with other reported electrical and 12-volt system failures on the ID.4. I am reporting this because I believe the issue may be part of a broader safety defect involving the vehicle\u2019s low-voltage electrical system, displays, or charging circuitry.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11703178,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/23/2025",
+      "dateComplaintFiled": "12/05/2025",
+      "vin": "1v25MPE88RC",
+      "components": "ELECTRICAL SYSTEM,VEHICLE SPEED CONTROL,WHEELS",
+      "summary": "My screen frozed while I was driving to the point that I was not able to know how fast I was driving. My backup camera also did not displayed on the screen. I sent videos to [XXX]. The tire pressure stated that tire has a normal pressure but I had a flat tire. Tire pressure sensors are not reading the tire pressure.  INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11703327,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/02/2025",
+      "dateComplaintFiled": "12/05/2025",
+      "vin": "1V2VRPE81RC",
+      "components": "ELECTRICAL SYSTEM,UNKNOWN OR OTHER",
+      "summary": "On 9/2/25, I gave my car to my local dealership to complete routine maintenance and to remedy a safety recall that had been initiated a few months prior. It was supposed to take one day to complete, but I was told that they were having trouble with a certain scan tool  and would need technical assistance on their end before they could complete the recall. In short, it is now more than 3 months later (12/5) and I STILL do not have my car back.  To the best of my knowledge, this is the problem: there is a scan tool that is necessary to complete the recall, and that this tool is malfunctioning. What the dealership keeps telling me is that they \u201ccontinue to send tickets to their IT department, but don\u2019t hear anything back.\u201d A couple of times, they have heard back and have tried different updates or workarounds, to no avail. On multiple occasions, my service advisor has said that they \u201csend tickets to IT daily in order to bother them enough actually do something.\u201d I finally called VW customer care after my car had been with the dealership for 2 months, and the case was escalated to an RCM. She has tried following up with the dealership, as well as reaching out to the QTRL and QTM to see if there was any way to try to suss out the issue. To my knowledge, both of those have been fruitless. In fact, when the QTM visited the dealership to look at my car on November 26, all were hopeful there would be some movement. My RCM told me that the QTM was looking for updates to my case that \u201cjust weren\u2019t there.\u201d And that \u201cthe QTM on multiple occasions had looked for updates, but none were available.\u201d To top things off, I spoke with my RCM on 12/2, and she said that my ticket had been closed due to \u201cno updates in 5 days.\u201d Infuriated, she reached back out that day to reopen the ticket. I was told today, 12/5, that the ticket STILL hasn\u2019t been reopened. There is more, but I\u2019m out of space. This many miscommunications and complete inaction is absolutely inexcusable at this point.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11700249,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/03/2025",
+      "dateComplaintFiled": "11/19/2025",
+      "vin": "1V2WSPE82RC",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "The vehicle displays including back up cameras and speed display failed to start with the car. I was able to move the car under power and believe I could have operated the vehicle at speed. I decided that it was unsafe to operate a vehicle without speed information and left the vehicle for approximately 10 hours. When I returned it was functioning again.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11698747,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/02/2025",
+      "dateComplaintFiled": "11/11/2025",
+      "vin": "1V2WSPE84RC",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "While driving, infotainment locked and rebooted multiple times, until eventually the whole car rebooted while driving.  Lost all visibility of speedometer and everything on heads up display.  for 1-2 minutes.  Brought to service center yesterday 11/10/25 (1st available appointment) and they collected logs to send to Volkswagen.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11698651,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/10/2025",
+      "dateComplaintFiled": "11/10/2025",
+      "vin": "1V2DSPE89RC",
+      "components": "ELECTRICAL SYSTEM,VEHICLE SPEED CONTROL,FORWARD COLLISION AVOIDANCE",
+      "summary": "Subject: Serious Safety and Electrical Problems \u2013 Request for Buyback or Replacement  Dear [Manufacturer Name or Dealer Name],  I leased my vehicle in January 2025, and since the very beginning I have experienced multiple serious problems. Right after taking the car from the dealership, it had an electrical failure \u2014 it completely shut down and had to be towed by a tow truck.  After that incident, the vehicle has constantly shown computer warning messages such as \u201cswitch control deactivated,\u201d \u201ckey not recognized,\u201d \u201crear motor malfunction,\u201d and other system errors. I have taken the vehicle to the dealership several times, and they always said it was due to a recall, but they never gave me a permanent solution. They kept telling me the vehicle was safe to drive.  However, on Saturday, November 8, 2025, while I was driving with my family, the vehicle suddenly stopped, started jerking violently, showed a \u201cbattery overheating\u201d error, and then accelerated by itself. I immediately called the dealership and took the car there. It is currently in their possession.  This vehicle is extremely dangerous for me and my family. I am requesting that the manufacturer or dealer take full responsibility for this issue and proceed with a buyback or replacement under the Lemon Law and warranty protection.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11695945,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/27/2025",
+      "dateComplaintFiled": "10/27/2025",
+      "vin": "1V25MPE81RC",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "The infotainment screen shuts off while driving, causing the driver display to freeze. As a result, the driver cannot access essential driving information such as speed. VW advised me to let the system rest, but this is a serious safety concern. The vehicle has been taken to the dealer twice, yet the issue persists.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11691532,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/29/2024",
+      "dateComplaintFiled": "10/06/2025",
+      "vin": "1V25MPE86RC",
+      "components": "ELECTRICAL SYSTEM,UNKNOWN OR OTHER,FUEL/PROPULSION SYSTEM",
+      "summary": "To start,  have requested the vehicle paperwork many times and the dealership has failed to give me a copy. The real problem started when i took my EV  to get checked as the battery was not lasting long, they said it was normal, took it again as it stopped charging on type 1 and 2 chargers, they now said it was the Onboard charging module. Also had to take the vehicle for a recall a few months ago as it had faulty door locking sensors. I feel unsafe to drive the car as a new problem appears every couple of months and VW is not reliable, my vehicle only has 7000miles in over a year and i have taken it to the dealership 3 times for safety issues",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11689257,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/18/2025",
+      "dateComplaintFiled": "09/23/2025",
+      "vin": "1V2BMPE8XRC",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "Several issues with the ID.4's Navigation module including  1.  Dynamic Signage not Available warning signs and posting an incorrect speed limit on the dashboard.  2. Incorrect GPS Location, showing locations that are significantly off from the actual location and therefore providing incorrect directions to charging locations and other destinations.  3.  The SOS Feature is inactive due to the vehicle's inability to determine its location.  The vehicle has been with the dealer several times over the past 3 months and has been unable to be fixed.  Furthermore, due to the above issues, several features of the vehicle are unusable including android auto.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11687367,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/08/2025",
+      "dateComplaintFiled": "09/15/2025",
+      "vin": "1V2VRPE84RC",
+      "components": "FORWARD COLLISION AVOIDANCE",
+      "summary": "GPS/navigation cannot determine position.  ACC/driver-assist features are sometimes disabled, but then reactivate with no warning.  Car will automatically brake for no reason on interstate since navigation suddenly indicates it has has entered, say, a 30 mph zone 100 miles to the east. Automatic distance keeping from vehicle in front turns off/on at random. VW dealer and Corporate are aware of the problem but state there is no known fix.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11680647,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": true,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/10/2025",
+      "dateComplaintFiled": "08/14/2025",
+      "vin": "1V2BMPE84RC",
+      "components": "VEHICLE SPEED CONTROL",
+      "summary": "The contact owns a 2024 Volkswagen ID.4. The contact stated upon pulling to a parking space and depressing the brake pedal, the brake Auto Brake Hold system engaged; however, the vehicle accelerated unintendedly, and the front end of the vehicle crashed into the side of one unoccupied parked vehicle, and then crashed into the front of a second unoccupied parked vehicle, which hit the front of a third unoccupied parked vehicle. The brake pedal was depressed during the failure, but the vehicle failed to respond. The air bags did not deploy. No injury was sustained. A police report was filed, but the information was not available. The vehicle was towed to Triple A storage facility. The vehicle was then towed to an autobody repair shop, where an estimate of the damage sustained was provided. The vehicle was not repaired. The dealer was notified of the failure, and the contact requested an investigation of the failure. The vehicle was in the process of being towed to the dealer auto collision center. The vehicle was not diagnosed or repaired. The manufacturer was notified of the failure and sent a data retriever authorization form and an event questionnaire form, which the contact had filled out and returned to the manufacturer.  The failure mileage was approximately 3,800.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11680137,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/30/2025",
+      "dateComplaintFiled": "08/12/2025",
+      "vin": "1V25MPE80RC",
+      "components": "FORWARD COLLISION AVOIDANCE",
+      "summary": "I was driving my 2024 ID.4 S when an error popped up stating that I needed to \u201cclean front parking sensors\u201d and \u201cmaneuver braking is unavailable.\u201d At my earliest convenience I attempted to clean the sensors but the issue persisted. Upon consult with the dealership I was informed that the sensors have a tiny rock knick and my front sensors need replacing. This was a $1700 repair. The vehicle is only a year old and has been driven very carefully. My concern is that. Volkswagen Auto Group uses cheap sensors print to failure and as a result my emergency maneuver braking feature is at risk of not working.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11672066,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "07/07/2025",
+      "dateComplaintFiled": "07/08/2025",
+      "vin": "1V2DSPE81RC",
+      "components": "ELECTRICAL SYSTEM,FUEL/PROPULSION SYSTEM,FORWARD COLLISION AVOIDANCE",
+      "summary": "The car's position as shown on the navigation screen and as determined by the car's internal GPS was off by several hundred miles. While driving on the highway using adaptive cruise control, the car would frequently decelerate rapidly from 60+ mph to 30 or less. When it did this, it would display a message like \"turn ahead - maximum 24 mph\". Of course, there was no  tight turn ahead as I was on an interstate highway in New York - the ACC was receiving messages to slow down because the location data was inaccurate. On two occasions this nearly caused a rear-end collision before I was able to disable the feature in ACC that would cause the car to decelerate because of small radius roadway curvature. During this time, the car's navigation system would continuously try to re-route, and the SOS functionality did not work.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11670055,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/29/2025",
+      "dateComplaintFiled": "06/29/2025",
+      "vin": "1V25MPE88RC",
+      "components": "ELECTRICAL SYSTEM,ENGINE",
+      "summary": "Car was charging, when we got in the car it tell is there is a potential risk of fire.  Recall has not been address since last year.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11670097,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/10/2025",
+      "dateComplaintFiled": "06/29/2025",
+      "vin": "1V25MPE85RC",
+      "components": "STRUCTURE",
+      "summary": "Since the door handle recall. The door handles on the front driver and passenger side have dead spots which make it harder and annoying to open the door. Volkswagens has even admitted to these dead spots .",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11668354,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/19/2025",
+      "dateComplaintFiled": "06/21/2025",
+      "vin": "1V27SPE87RC",
+      "components": "UNKNOWN OR OTHER,FORWARD COLLISION AVOIDANCE",
+      "summary": "ID.4 2024 Pro AWD (Canada) Cannot connect to CARNET (Since June 16 2024, for past 5 days), vehicle breaks suddenly on highway. Dash displays approaching intersection but there's no intersection. Traumatizing experience.   1. Vehicle was connected to Google map, but VW insists on trusting their own navigation system (even though it's not working).  2. No way for user to connect the car's network to be \"online\" using personal cellphone data. (Forcing user to buy CARNET package, otherwise safety is not guaranteed) 3. For a 2024 EV, vehicle should at least design safety measure for such scenario. If the driver's hands are detected on the steering wheel, and ACC is ON. The car will NOT auto break during intersection. (It doesn't break BEFORE the intersection any way!!!)  In uploaded picture taken in an intersection. Connected to google map, but vehicle dashboard displays current road is 100 KM/H zone. (It's a 50KM/H zone). Driver safety cannot be promised!!!!",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11667522,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/17/2025",
+      "dateComplaintFiled": "06/17/2025",
+      "vin": "1V25MPE88RC",
+      "components": "STRUCTURE",
+      "summary": "The contact owns a 2024 Volkswagen ID.4. The contact received notification of NHTSA Campaign Number: 24V651000 (Structure); however, the part to do the recall repair was not yet available. Additionally, the contact stated that the vehicle failed to charge intermittently. The vehicle was taken to the dealer, where the cause of the failure could not be determined. The vehicle was not diagnosed or repaired. The contact was concerned that the charging failure was related to the recall. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The manufacturer was notified of the failure. The failure mileage was unknown. Parts distribution disconnect.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11664333,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/10/2024",
+      "dateComplaintFiled": "06/02/2025",
+      "vin": "1V2CRPE88RC",
+      "components": "ELECTRICAL SYSTEM,ENGINE",
+      "summary": "Car will not start, although there is 70% charge. This has occurred 3 times. Gets towed to deal where they tell us \"it magically fixed itself.\" Error message states that 12v battery is not working. Was advised by dealer that recall would not fix this problem. THey advised this can happen any time the car is charged (EV vehicle) and we will just have to tow it back to be \"reset\" each time.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11663904,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/30/2025",
+      "dateComplaintFiled": "05/30/2025",
+      "vin": "1V2WSPE84RC",
+      "components": "ELECTRICAL SYSTEM,STRUCTURE,UNKNOWN OR OTHER",
+      "summary": "My 2024 vw Id4 has 2 long ignored safety recalls. The dealer i bought car from won't respond and I'm very far down the waiting list for repairs.  My car isn't in a garage and one of the recalls for the door handles is worsened by it being always outdoors. Would you please help me get both recalls fixed?",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11664007,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/30/2025",
+      "dateComplaintFiled": "05/30/2025",
+      "vin": "1V2WSPE80RC",
+      "components": "STRUCTURE",
+      "summary": "The contact owns a 2024 Volkswagen ID.4. The contact received notification of NHTSA Campaign Number: 24V651000 (Structure); however, the part to do the recall repair was not yet available. The local dealer was contacted. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The manufacturer was made aware of the issue. The contact had not experienced a failure. Parts distribution disconnect.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11662879,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": true,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "05/22/2025",
+      "dateComplaintFiled": "05/23/2025",
+      "vin": "1V2DSPE82RC",
+      "components": "ELECTRICAL SYSTEM,VISIBILITY/WIPER",
+      "summary": "5/22/2025, Thursday morning I unplugged my car that was parked inside my garage. I sat down, tapped the pedal to turn on my \u201cignition mode\u201d and within a few moments my windshield shot a massive flame in front of me and began sparking shooting glass from both heating elements. Glass shards landed on my hood and garage floor. My windshield was smoking and the amount of heat generated melted some of the glass around the  area where the heating elements connect to the glass on the interior of my vehicle. My dealership fought me hard saying I had a crack that caused the fire and advised me to file an insurance claim for this \u201caccident\u201d and also continuing driving my vehicle that had just caught fire momentarily. Thankfully the fuse blew and that\u2019s why the fire stopped but my concern is how much heat had to be generated to spontaneously combust my glass and then melt it! I refused to accept their response and after an entire day of arguing with VW customer support and the dealership. I repeatedly asked for a diagnostic of my windshield heating element module and the amount of electricity it was giving. The dealership declined to diagnose my car and removed the heated windshield fuse per my request. I spoke with the dealership owner who finally contacted their field service advisor who advised I should not drive my vehicle that caught fire and instead are going to further investigate my concern. I struggle to trust an actual investigation will be performed and hope they do not simply replace the windshield and ignore the safety hazard of my window shooting a flame and combusting glass.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11660621,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "02/28/2025",
+      "dateComplaintFiled": "05/13/2025",
+      "vin": " 1V25MPE85R",
+      "components": "SERVICE BRAKES, HYDRAULIC",
+      "summary": "The contact leased a 2024 Volkswagen ID.4. The contact stated that the brake pedal was depressed to the floorboard, and there was a loss of pressure on the brake pedal. The contact stated that the vehicle continued to roll but eventually came to a stop. The vehicle was taken to the local dealer on three occasions, who was unable to determine the cause of the failure. The vehicle was taken back to the dealer and was test-driven, and the dealer determined that the ABS was offline. There were no fault codes retrieved. The contact stated that the brake booster was inoperable. There were no warning lights illuminated. The vehicle was not repaired. The manufacturer was contacted, but no assistance was provided. The failure mileage was approximately 500.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11657958,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": true,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "04/06/2025",
+      "dateComplaintFiled": "04/30/2025",
+      "vin": "1V2DSPE88RC",
+      "components": "BACK OVER PREVENTION,FORWARD COLLISION AVOIDANCE",
+      "summary": "I am filing this formal complaint with the National Highway Traffic Safety Administration regarding a critical safety failure involving my 2024 Volkswagen ID.4. The incident, which occurred on [XXX], involved sudden and unintended acceleration while slowly parking at a Walgreens in Saco, Maine, resulting in a collision with the building. I delayed this submission until the official police report (Saco Police Crash Report #[XXX]) became available on April 21, 2025, to ensure accuracy and proper documentation. Incident Details: \u2022Date/Time: [XXX] \u2022Location: Walgreens Pharmacy, [XXX]  \u2022Vehicle: 2024 VW ID.4 (VIN: [XXX] ) \u2022Conditions: daylight conditions, no contributing environmental factors. While shifting from Drive to Park with my foot fully on the brake, the vehicle surged forward twice without accelerator input. IQ Drive, Collision mitigation systems and Park Distance Control (PDC) failed to engage. All driver-assistance features were deactivated. No airbags deployed.  Supporting Documentation (attached): \u2022Saco Police Crash Report # [XXX] \u2022Crash scene photographs Prior Warnings: \u2022In August 2024, a powertrain warning appeared; VW service dismissed it as non-critical. \u2022On the morning of the crash, the vehicle emitted an abnormal sound during initial startup  Medical Context: At the time of the incident, I was recovering from major cardiothoracic surgery ([XXX]). Though belted, the sudden jolt near my surgical site raised post-operative risks and safety concerns. Request for Action: I respectfully request that NHTSA: 1.Investigate this incident for potential inclusion in a broader pattern of unintended acceleration in the VW ID.4 model. 2.Review related TSBs, consumer complaints, or internal manufacturer field reports. 3.Secure pre-reset data from the vehicle\u2019s ECU and EDR. 4.Notify Volkswagen of its duty to report  Thank you for your attention to this serious matter  INFORMATION REDACTED PURSUANT TO THE FREEDOM OF INFORMATION ACT (FOIA), 5 U.S.C. 552(B)(6)",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11650939,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "01/01/2025",
+      "dateComplaintFiled": "03/26/2025",
+      "vin": "1V2WSPE80RC",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "My door handles (all) were replaced per the last recall on the car. Even after the fix, the door handles only work some of the time. And, the locking mechanism is having problematic issues as well. I can assure you that the recall was was unsuccessful.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11633933,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/09/2024",
+      "dateComplaintFiled": "01/03/2025",
+      "vin": "1V2BMPE81RC",
+      "components": "STRUCTURE",
+      "summary": "The contact owns a 2024 Volkswagen ID.4. The contact received notification of NHTSA Campaign Number: 24V651000 (Structure); however, the part to do the recall repair was unavailable. The contact stated that the manufacturer had exceeded a reasonable amount of time for the recall repair. The manufacturer was not made aware of the issue. The contact stated that inclement weather, the vehicle security system was failing. The contact stated that the doors were unlocking independently, and the alarm system was disarming. The contact stated that the failure was constant. Additionally, the contact stated that the door locks appeared in the locked position, but the doors were able to be opened from the outside. The contact had taken the vehicle to the local dealer who determined that the security system needed to be replaced. The vehicle was repaired; however, the failure reoccurred. The failure mileage was approximately 2,100. Parts distribution disconnect.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11629712,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/08/2024",
+      "dateComplaintFiled": "12/09/2024",
+      "vin": "1V2BMPE86RC",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "Lack of recall remedy for an issue that can cause the door to spontaneously open (I'm paraphrasing) while driving. This is due to a faulty door handle that allows water in, which can short the circuit board, causing the door to open on its own. This means I cannot have my daughter in this car, and honestly don't like the idea of getting in the vehicle myself, but the dealership said they cannot terminate the lease for me. I have tried contacting Volkswagen directly, but have yet to actually speak to a person. All I want, is to give the vehicle back to the dealership, without having to pay for the lease of this vehicle I cannot use without risking the safety of my wife and daughter.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11628854,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/17/2024",
+      "dateComplaintFiled": "12/04/2024",
+      "vin": "1V2WSPE81RC",
+      "components": "POWER TRAIN,ELECTRICAL SYSTEM,FUEL/PROPULSION SYSTEM",
+      "summary": "The car's turtle light was on, and the car started moving slowly with instructions to part the car immediately. I brought the car to the service on 10/18/2024, and they could not diagnose it after 3 hours. I returned the vehicle on 10/21/2024 with the same complaint, and the car has been at the dealership service since then. VW instructed the service to replace one battery module, which did not solve the problem. Now, the service is waiting on different back-ordered parts, and there is no timeline for the arrival of the parts, nor are they sure this is the resolution.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11627847,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/07/2024",
+      "dateComplaintFiled": "11/28/2024",
+      "vin": "1V25MPE85RC",
+      "components": "ELECTRICAL SYSTEM",
+      "summary": "The screen turns black and from my understanding disconnects all the safety features",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11627795,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/27/2024",
+      "dateComplaintFiled": "11/27/2024",
+      "vin": "1V2BMPE86RC",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "Every few days, the doors unlock on their own when parked.  It recent as late as 15 minutes ago.  It has been happening for a few weeks.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11627793,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/20/2024",
+      "dateComplaintFiled": "11/27/2024",
+      "vin": "1V2BMPE86RC",
+      "components": "ELECTRICAL SYSTEM,EXTERIOR LIGHTING",
+      "summary": "On 3 different occasions in the last 2 weeks, everything mechanical shutdown accept for the ability to drive.  This means all lights, computer systems, dashboards, etc.  It was everything electrical accept for the ability to press on the gas, brake, and steer as these 3 things were fine though I could not see my speed either.  It, meaning all 3 occurrences, were a total blackout.  Ciocca Volkswagon in Flemington tried to give me an appointment 1 month out. I got the manager and he said I will be in the shop 1 week and should get a call.  No call to date.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11626675,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/21/2024",
+      "dateComplaintFiled": "11/21/2024",
+      "vin": "1V25MPE87RC",
+      "components": "SERVICE BRAKES, HYDRAULIC,ELECTRICAL SYSTEM,VISIBILITY",
+      "summary": "The contact owns a 2024 Volkswagen ID.4. The contact stated that while his wife was driving at an undisclosed speed and attempting to slow the vehicle, the brake pedal was depressed; however, the vehicle failed to slow immediately. The contact stated that his wife was able to bring the vehicle to a complete stop by pump the brake pedal. The contact stated that while his wife was depressing the brake pedal, the radio volume was not working as designed, the windows were rolling up and down independently, and the headlamps were not functioning as needed. There were no warning lights illuminated. The vehicle was taken to the dealer, who was unable to duplicate the failure. The vehicle was not repaired. The manufacturer was not notified of the failure. The failure mileage was 3,000.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11626680,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "11/19/2024",
+      "dateComplaintFiled": "11/21/2024",
+      "vin": "1V25MPE87RC",
+      "components": "ELECTRICAL SYSTEM,WHEELS,SERVICE BRAKES",
+      "summary": "I have been leasing vehicles from VW since 2009, I leased every model they have from cars to SUVs. This is my first time leasing their first electric vehicle, ID.4. Since leasing this vehicle, we've faced multiple issues. First time was the second day after I leased it, the air conditioning wasn\u2019t working at all. This issue was repaired.  Then all sort of electrical problems started occurring when braking, including the back window lowering itself, the radio turning on and off by itself, interior lights flickering, the backup camera failing, and rear sensors not working. Additionally, the brakes have twice failed to respond properly, requiring multiple pumps to stop. Despite reporting these problems to the dealership and having inspections performed, no resolution has been found.  Also 2 days ago, the rear tire unexpectedly blew out while driving, potentially due to a magnetic field beneath the vehicle pulling metal debris from the road, which may have caused a sidewall puncture. This incident occurred at just 3,221 miles of tire usage. Although it is a known issue, the dealership made me pay to replace the tire, which cost $546. Additionally, a recent safety recall about doors unexpectedly opening while driving greatly adds to all safety concerns mentioned above. These compounded issues make this vehicle very unsafe, and I\u2019m deeply anxious about driving it, and very concerned for my safety and that of others on the road. I urge immediate resolution to these safety and potentially dangerous problems.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11618366,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "10/06/2024",
+      "dateComplaintFiled": "10/06/2024",
+      "vin": "1V25MPE89RC",
+      "components": "ELECTRICAL SYSTEM,STRUCTURE,SERVICE BRAKES",
+      "summary": "Volkswagon is being irresponsible with their response to resolving the door issue on my vehicle. The door has opened twice while driving as clearly related to an electrical issue. This is a very dangerous scenario as I cannot predict which door opens at which time. It could be any. I have a video of my door jamb. My vehicle is brand new with 0 damage, this is clearly a manufacturer defect that VW is neglecting to resolve timely.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11616118,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "09/04/2024",
+      "dateComplaintFiled": "09/24/2024",
+      "vin": "1V2BMPE83RC",
+      "components": "ELECTRICAL SYSTEM,UNKNOWN OR OTHER",
+      "summary": "Doors unlocking randomly back seat occupants cannot open the door when the car is unlocked and parked.  They put a stop sale on all cars in the making because it\u2019s deemed unsafe to sale but a car that is less than 2 months old is deemed safe and won\u2019t buy back.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11610831,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "08/25/2024",
+      "dateComplaintFiled": "08/26/2024",
+      "vin": "1V2VRPE86RC",
+      "components": "UNKNOWN OR OTHER",
+      "summary": "I purchased this vehicle a week ago, and it has only 300 miles on it. The problem: The charging port flap does not open, and therefore, the vehicle cannot be charged.   I checked online, and there are many, many cases of this happening in VW vehicles; it is not restricted to EVs.   Why is this a safety issue? Imagine you are in the middle of the night or under inclement weather conditions while going somewhere and you stopped to charge the battery. Since charging port does not open, you cannot charge the battery. You are stranded, stressed and  exposed to potential crime, bad weather and aggravation of health problems that can lead to stroke and death. Why does VW use this defective charging or fueling port flap in spite of countless incidents of its not opening? Please issue a recall and force VW to install a working fuel port flap.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    },
+    {
+      "odiNumber": 11594147,
+      "manufacturer": "Volkswagen Group of America, Inc.",
+      "crash": false,
+      "fire": false,
+      "numberOfInjuries": 0,
+      "numberOfDeaths": 0,
+      "dateOfIncident": "06/13/2024",
+      "dateComplaintFiled": "06/13/2024",
+      "vin": "1V2WSPE87RC",
+      "components": "POWER TRAIN,SERVICE BRAKES",
+      "summary": "When stopping on an incline: the vehicle comes to a stop with the brake pedal. If you let up on the brakes, the vehicle will start rolling backwards because the brakes are not creating enough pressure to hold the vehicle and the electric motor has disengaged to save energy. The infotainment screen will even recognize the vehicle is rolling backwards and engage the rear-view camera even though the vehicle is still in drive (D or B). I have almost rolled into several cars and pedestrians because the vehicle was rolling backwards unexpectedly. The vehicle does have an \"Auto-Hold\" brake feature but it only engages when the brake pedal is depressed to a certain point, which is further than it takes to bring the vehicle to a stop. I have also rolled forward unexpectedly having thought the auto-hold feature was engaged.",
+      "products": [
+        {
+          "type": "Vehicle",
+          "productYear": "2024",
+          "productMake": "VOLKSWAGEN",
+          "productModel": "ID.4",
+          "manufacturer": "Volkswagen Group of America, Inc."
+        }
+      ]
+    }
+  ]
+}
