@@ -1,0 +1,11 @@
+part_id,score,coverage,compat_weighted,eligible,rank,part_name,demand_class,demand,scarcity,compatibility,practicality,confidence,exclusion_reason
+CABIN_AIR_FILTER,88.130859375,0.934375,91.09375,True,1.0,Cabin-air filters,consumable,100.0,100.0,91.1,60.0,70.5,
+WIPER_BLADES,87.33565848214286,0.934375,91.09375,True,2.0,Wiper blades,consumable,94.1,100.0,91.1,60.0,79.5,
+BRAKE_PADS,80.83049894964597,0.934375,91.09375,True,3.0,Brake pads,consumable,88.0,63.6,91.1,67.5,79.5,
+BRAKE_DISCS,71.28850676214597,0.934375,91.09375,True,4.0,Brake discs,wear,71.8,63.6,91.1,40.0,79.5,
+SHOCK_ABSORBERS,63.48423778893168,1.0,91.09375,True,5.0,Shock absorbers,wear,42.2,59.2,91.1,54.1,81.1,
+SIDE_MIRRORS,61.40615722086591,0.934375,91.09375,True,6.0,Side mirrors,collision,49.5,47.3,91.1,30.0,79.5,
+FENDERS,58.865681459842385,0.934375,91.09375,True,7.0,Fenders/body panels,collision,50.0,51.3,91.1,20.0,70.5,
+TAIL_LIGHTS,53.12492351727101,0.934375,91.09375,True,8.0,Tail lights,collision,23.0,56.4,91.1,30.0,79.5,
+BUMPERS,52.861328125,0.934375,91.09375,True,9.0,Bumpers,collision,50.0,0.0,91.1,25.9,70.5,
+HEADLIGHTS,46.98307686304134,1.0,91.09375,True,10.0,Headlights,collision,23.0,18.6,91.1,36.6,81.1,

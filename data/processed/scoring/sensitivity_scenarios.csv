@@ -1,0 +1,51 @@
+scenario,part_id,part_name,score,rank
+baseline,WIPER_BLADES,Wiper blades,92.0,1
+baseline,CABIN_AIR_FILTER,Cabin-air filters,87.0,2
+baseline,BRAKE_PADS,Brake pads,82.0,3
+baseline,BRAKE_DISCS,Brake discs,72.0,4
+baseline,SIDE_MIRRORS,Side mirrors,65.75,5
+baseline,SHOCK_ABSORBERS,Shock absorbers,64.5,6
+baseline,TAIL_LIGHTS,Tail lights,63.25,7
+baseline,FENDERS,Fenders/body panels,59.5,8
+baseline,HEADLIGHTS,Headlights,58.25,9
+baseline,BUMPERS,Bumpers,44.5,10
+slide_example,WIPER_BLADES,Wiper blades,90.75,1
+slide_example,CABIN_AIR_FILTER,Cabin-air filters,84.5,2
+slide_example,BRAKE_PADS,Brake pads,78.25,3
+slide_example,BRAKE_DISCS,Brake discs,69.5,4
+slide_example,SIDE_MIRRORS,Side mirrors,64.5,5
+slide_example,TAIL_LIGHTS,Tail lights,63.25,6
+slide_example,SHOCK_ABSORBERS,Shock absorbers,62.0,7
+slide_example,FENDERS,Fenders/body panels,59.5,8
+slide_example,HEADLIGHTS,Headlights,57.0,9
+slide_example,BUMPERS,Bumpers,40.75,10
+equal_weights,WIPER_BLADES,Wiper blades,89.0,1
+equal_weights,CABIN_AIR_FILTER,Cabin-air filters,84.0,2
+equal_weights,BRAKE_PADS,Brake pads,79.0,3
+equal_weights,BRAKE_DISCS,Brake discs,69.0,4
+equal_weights,TAIL_LIGHTS,Tail lights,64.0,5
+equal_weights,SIDE_MIRRORS,Side mirrors,64.0,6
+equal_weights,SHOCK_ABSORBERS,Shock absorbers,64.0,7
+equal_weights,HEADLIGHTS,Headlights,59.0,8
+equal_weights,FENDERS,Fenders/body panels,59.0,9
+equal_weights,BUMPERS,Bumpers,44.0,10
+demand_heavy,WIPER_BLADES,Wiper blades,94.75,1
+demand_heavy,CABIN_AIR_FILTER,Cabin-air filters,91.0,2
+demand_heavy,BRAKE_PADS,Brake pads,87.25,3
+demand_heavy,BRAKE_DISCS,Brake discs,72.25,4
+demand_heavy,SIDE_MIRRORS,Side mirrors,61.0,5
+demand_heavy,SHOCK_ABSORBERS,Shock absorbers,61.0,6
+demand_heavy,TAIL_LIGHTS,Tail lights,53.5,7
+demand_heavy,HEADLIGHTS,Headlights,49.75,8
+demand_heavy,FENDERS,Fenders/body panels,49.75,9
+demand_heavy,BUMPERS,Bumpers,38.5,10
+scarcity_heavy,WIPER_BLADES,Wiper blades,88.5,1
+scarcity_heavy,CABIN_AIR_FILTER,Cabin-air filters,78.5,2
+scarcity_heavy,BRAKE_PADS,Brake pads,68.5,3
+scarcity_heavy,TAIL_LIGHTS,Tail lights,68.5,4
+scarcity_heavy,BRAKE_DISCS,Brake discs,64.75,5
+scarcity_heavy,SIDE_MIRRORS,Side mirrors,64.75,6
+scarcity_heavy,FENDERS,Fenders/body panels,64.75,7
+scarcity_heavy,HEADLIGHTS,Headlights,58.5,8
+scarcity_heavy,SHOCK_ABSORBERS,Shock absorbers,58.5,9
+scarcity_heavy,BUMPERS,Bumpers,34.75,10

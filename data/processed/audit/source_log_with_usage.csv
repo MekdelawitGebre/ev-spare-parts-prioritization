@@ -1,0 +1,11 @@
+source_id,source_name,url,source_type,publisher_identity,reliability_tier,market_scope,accessed_on,caveat,rows_used
+S01,Jiji Ethiopia Vehicles (jiji.com.et),https://jiji.com.et/cars,marketplace,individual and dealer sellers,C,Ethiopia,2026-11-18,"Advertised asking prices; inventory proxy, not registrations or sales",222.0
+S02,Adey Market Vehicles,https://adey-market.com/categories/cars?type=cars_electric,marketplace,commercial car dealers,B,Ethiopia,2026-11-18,Commercial dealership listings; includes pre-order and in-stock units,25.0
+S03,Gezat EV Catalogue,https://ev.gezat.et,distributor,Gezat Motors (authorized EV distributor),B,Ethiopia,2026-11-18,Official distributor catalogue; reflects trim availability and warranty terms,5.0
+S04,CQSW Auto Parts (BYD Catalogue),https://www.cqswautoparts.com/part-numbers-for-byd-seagull-spare-parts,catalogue,specialist Chinese EV parts supplier,A,Global,2026-11-18,Verified manufacturer OEM part numbers and fitment specifications,10.0
+S05,Exist.ae VW Parts Catalogue,https://exist.ae/catalog/cars/volkswagen/id-4,catalogue,established international auto parts platform,A,Global,2026-11-18,Comprehensive OEM part numbers and exploded diagram references for VW ID.4,10.0
+S06,Toyota Spare Parts Online,https://www.toyota-spare-parts.com/toyota-cars/BZ4X,catalogue,Toyota OEM parts supplier catalogue,A,Global,2026-11-18,OEM catalog lookups and fitment diagrams for Toyota bZ4X,10.0
+S07,Landin Parts (BYD/Changan Exporter),https://www.landinparts.com/byd/,supplier,specialist Chinese EV export supplier,C,Global,2026-11-18,Supplier listing with export indicative pricing; fitment subject to confirmation,20.0
+S08,Jiji Ethiopia Spare Parts (jiji.com.et),https://jiji.com.et/car-parts-and-accessories,marketplace,local parts merchants (Merkato/Piassa),C,Ethiopia,2026-11-18,Local Ethiopian market ad listings; informal aftermarket prices,54.0
+S09,NHTSA Complaints & Recalls API,https://api.nhtsa.gov,regulator,National Highway Traffic Safety Administration (US DOT),A,US,2026-11-18,"US safety defects and recalls only; proxy for failure modes, not wear",0.0
+S10,National Bank of Ethiopia,https://nbe.gov.et,regulator,National Bank of Ethiopia,A,Ethiopia,2026-11-18,Official indicative foreign exchange rates post-July 2024 float,0.0

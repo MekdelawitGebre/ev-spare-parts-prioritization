@@ -1,0 +1,51 @@
+evidence_id,source_id,vehicle_id,part_id,collected_on,date_status,oem_part_number,fitment_status,price_usd,price_etb,price_status,availability,raw_text
+PC-0001,S04,BYD_SEAGULL,BRAKE_PADS,2026-11-18,observed,1321473200,confirmed_oem,32.0,4240.0,converted_fx,In stock,Brake pads front set | Front brake pad set (ceramic low-metallic) | $32.00
+PC-0002,S07,BYD_YUAN_UP,BRAKE_PADS,2026-11-18,observed,1422891000,catalogue_fit,38.0,5035.0,converted_fx,In stock,Brake pads front set | Front brake pad friction kit | $38.00
+PC-0003,S05,VW_ID4,BRAKE_PADS,2026-11-18,observed,1EA698151,confirmed_oem,65.0,8612.5,converted_fx,In stock,Brake pads front set | Front brake pad set with wear indicator | $65.00
+PC-0004,S06,TOYOTA_BZ4X,BRAKE_PADS,2026-11-18,observed,0446542210,confirmed_oem,72.0,9540.0,converted_fx,In stock,Brake pads front set | Disc brake pad kit front | $72.00
+PC-0005,S07,CHANGAN_BENBEN_ESTAR,BRAKE_PADS,2026-11-18,observed,S1010350100,catalogue_fit,24.0,3180.0,converted_fx,In stock,Brake pads front set | Front brake pad lining set | $24.00
+PC-0006,S04,BYD_SEAGULL,BRAKE_DISCS,2026-11-18,observed,1321482000,confirmed_oem,48.0,6360.0,converted_fx,In stock,Brake disc front rotor | Front ventilated brake disc rotor | $48.00
+PC-0007,S07,BYD_YUAN_UP,BRAKE_DISCS,2026-11-18,observed,1422894000,catalogue_fit,56.0,7420.0,converted_fx,In stock,Brake disc front rotor | Front brake rotor disc | $56.00
+PC-0008,S05,VW_ID4,BRAKE_DISCS,2026-11-18,observed,1EA615301,confirmed_oem,95.0,12587.5,converted_fx,In stock,Brake disc front rotor | Brake disc front ventilated 330mm | $95.00
+PC-0009,S06,TOYOTA_BZ4X,BRAKE_DISCS,2026-11-18,observed,4351242110,confirmed_oem,110.0,14575.0,converted_fx,In stock,Brake disc front rotor | Disc front brake rotor | $110.00
+PC-0010,S07,CHANGAN_BENBEN_ESTAR,BRAKE_DISCS,2026-11-18,observed,,unverified,,,price_on_request,On request,Brake disc front rotor | Front brake rotor | contact us
+PC-0011,S04,BYD_SEAGULL,CABIN_AIR_FILTER,2026-11-18,observed,1109130SC01,confirmed_oem,12.0,1590.0,converted_fx,In stock,Cabin air pollen filter | Air conditioning cabin pollen filter | $12.00
+PC-0012,S07,BYD_YUAN_UP,CABIN_AIR_FILTER,2026-11-18,observed,1109130YU01,catalogue_fit,14.0,1855.0,converted_fx,In stock,Cabin air pollen filter | CN95 active carbon cabin filter | $14.00
+PC-0013,S05,VW_ID4,CABIN_AIR_FILTER,2026-11-18,observed,1EA819669,confirmed_oem,24.0,3180.0,converted_fx,In stock,Cabin air pollen filter | Allergen active carbon cabin filter | $24.00
+PC-0014,S06,TOYOTA_BZ4X,CABIN_AIR_FILTER,2026-11-18,observed,8713958010,confirmed_oem,28.0,3710.0,converted_fx,In stock,Cabin air pollen filter | Clean air cabin filter element | $28.00
+PC-0015,S07,CHANGAN_BENBEN_ESTAR,CABIN_AIR_FILTER,2026-11-18,observed,8100110U01,catalogue_fit,9.0,1192.5,converted_fx,In stock,Cabin air pollen filter | A/C pollen filter element | $9.00
+PC-0016,S04,BYD_SEAGULL,WIPER_BLADES,2026-11-18,observed,1214801100,confirmed_oem,16.0,2120.0,converted_fx,In stock,Wiper blade set front | Front windshield wiper blade pair | $16.00
+PC-0017,S07,BYD_YUAN_UP,WIPER_BLADES,2026-11-18,observed,1414802000,catalogue_fit,18.0,2385.0,converted_fx,In stock,Wiper blade set front | Aerodynamic wiper blade set | $18.00
+PC-0018,S05,VW_ID4,WIPER_BLADES,2026-11-18,observed,1EA955427,confirmed_oem,38.0,5035.0,converted_fx,In stock,Wiper blade set front | Aero wiper blade set front | $38.00
+PC-0019,S06,TOYOTA_BZ4X,WIPER_BLADES,2026-11-18,observed,8521242140,confirmed_oem,42.0,5565.0,converted_fx,In stock,Wiper blade set front | Wiper blade front RH/LH | $42.00
+PC-0020,S07,CHANGAN_BENBEN_ESTAR,WIPER_BLADES,2026-11-18,observed,5205010B01,catalogue_fit,11.0,1457.5,converted_fx,In stock,Wiper blade set front | Wiper blade assembly front | $11.00
+PC-0021,S04,BYD_SEAGULL,HEADLIGHTS,2026-11-18,observed,1325120000,confirmed_oem,190.0,25175.0,converted_fx,In stock,Headlight assembly front LED | Full LED headlight assembly LH/RH | $190.00
+PC-0022,S07,BYD_YUAN_UP,HEADLIGHTS,2026-11-18,observed,1425121000,catalogue_fit,260.0,34450.0,converted_fx,In stock,Headlight assembly front LED | LED headlamp assembly with DRL | $260.00
+PC-0023,S05,VW_ID4,HEADLIGHTS,2026-11-18,observed,11G941035,confirmed_oem,750.0,99375.0,converted_fx,In stock,Headlight assembly front LED | IQ.Light LED matrix headlight LH | $750.00
+PC-0024,S06,TOYOTA_BZ4X,HEADLIGHTS,2026-11-18,observed,8111042720,confirmed_oem,820.0,108650.0,converted_fx,In stock,Headlight assembly front LED | Headlamp assembly bi-beam LED | $820.00
+PC-0025,S07,CHANGAN_BENBEN_ESTAR,HEADLIGHTS,2026-11-18,observed,4121010C01,catalogue_fit,135.0,17887.5,converted_fx,In stock,Headlight assembly front LED | Composite halogen/LED headlamp | $135.00
+PC-0026,S04,BYD_SEAGULL,TAIL_LIGHTS,2026-11-18,observed,1325130000,confirmed_oem,145.0,19212.5,converted_fx,In stock,Tail light assembly rear | Rear through-type LED tail light lamp | $145.00
+PC-0027,S07,BYD_YUAN_UP,TAIL_LIGHTS,2026-11-18,observed,1425132000,catalogue_fit,185.0,24512.5,converted_fx,In stock,Tail light assembly rear | LED rear combination lamp bar | $185.00
+PC-0028,S05,VW_ID4,TAIL_LIGHTS,2026-11-18,observed,11G945091,confirmed_oem,380.0,50350.0,converted_fx,In stock,Tail light assembly rear | 3D LED rear tail light assembly | $380.00
+PC-0029,S06,TOYOTA_BZ4X,TAIL_LIGHTS,2026-11-18,observed,8155042290,confirmed_oem,410.0,54325.0,converted_fx,In stock,Tail light assembly rear | Rear combination tail lamp | $410.00
+PC-0030,S07,CHANGAN_BENBEN_ESTAR,TAIL_LIGHTS,2026-11-18,observed,4133010B02,catalogue_fit,85.0,11262.5,converted_fx,In stock,Tail light assembly rear | Rear tail lamp unit | $85.00
+PC-0031,S04,BYD_SEAGULL,SIDE_MIRRORS,2026-11-18,observed,1326110000,confirmed_oem,85.0,11262.5,converted_fx,In stock,Side mirror assembly door | Exterior side mirror with turn signal | $85.00
+PC-0032,S07,BYD_YUAN_UP,SIDE_MIRRORS,2026-11-18,observed,1426115000,catalogue_fit,115.0,15237.5,converted_fx,In stock,Side mirror assembly door | Power folding heated side mirror | $115.00
+PC-0033,S05,VW_ID4,SIDE_MIRRORS,2026-11-18,observed,11A857507,confirmed_oem,240.0,31800.0,converted_fx,In stock,Side mirror assembly door | Side rearview mirror assembly electric | $240.00
+PC-0034,S06,TOYOTA_BZ4X,SIDE_MIRRORS,2026-11-18,observed,8791042610,confirmed_oem,290.0,38425.0,converted_fx,In stock,Side mirror assembly door | Outer mirror assembly with BSM | $290.00
+PC-0035,S07,CHANGAN_BENBEN_ESTAR,SIDE_MIRRORS,2026-11-18,observed,8202010A01,catalogue_fit,55.0,7287.5,converted_fx,In stock,Side mirror assembly door | Manual/electric side mirror | $55.00
+PC-0036,S04,BYD_SEAGULL,BUMPERS,2026-11-18,observed,1215100000,confirmed_oem,120.0,15900.0,converted_fx,In stock,Front bumper cover fascia | Front bumper cover lower fascia | $120.00
+PC-0037,S07,BYD_YUAN_UP,BUMPERS,2026-11-18,observed,1415102000,catalogue_fit,160.0,21200.0,converted_fx,In stock,Front bumper cover fascia | Front bumper bar assembly | $160.00
+PC-0038,S05,VW_ID4,BUMPERS,2026-11-18,observed,11A807217,confirmed_oem,320.0,42400.0,converted_fx,In stock,Front bumper cover fascia | Bumper cover front unpainted | $320.00
+PC-0039,S06,TOYOTA_BZ4X,BUMPERS,2026-11-18,observed,5211942980,confirmed_oem,360.0,47700.0,converted_fx,In stock,Front bumper cover fascia | Front bumper cover fascia | $360.00
+PC-0040,S07,CHANGAN_BENBEN_ESTAR,BUMPERS,2026-11-18,observed,2803011C01,catalogue_fit,75.0,9937.5,converted_fx,In stock,Front bumper cover fascia | Front bumper shell | $75.00
+PC-0041,S04,BYD_SEAGULL,FENDERS,2026-11-18,observed,1215200000,confirmed_oem,85.0,11262.5,converted_fx,In stock,Front fender body panel wing | Front fender panel LH/RH | $85.00
+PC-0042,S07,BYD_YUAN_UP,FENDERS,2026-11-18,observed,1415203000,catalogue_fit,105.0,13912.5,converted_fx,In stock,Front fender body panel wing | Front wing fender panel | $105.00
+PC-0043,S05,VW_ID4,FENDERS,2026-11-18,observed,11A821105,confirmed_oem,210.0,27825.0,converted_fx,In stock,Front fender body panel wing | Side fender front panel steel | $210.00
+PC-0044,S06,TOYOTA_BZ4X,FENDERS,2026-11-18,observed,5381142350,confirmed_oem,240.0,31800.0,converted_fx,In stock,Front fender body panel wing | Front fender wing panel | $240.00
+PC-0045,S07,CHANGAN_BENBEN_ESTAR,FENDERS,2026-11-18,observed,8403011A01,catalogue_fit,50.0,6625.0,converted_fx,In stock,Front fender body panel wing | Front wing fender sheet | $50.00
+PC-0046,S04,BYD_SEAGULL,SHOCK_ABSORBERS,2026-11-18,observed,1318110000,confirmed_oem,68.0,9010.0,converted_fx,In stock,Shock absorber strut front | Front suspension strut shock absorber | $68.00
+PC-0047,S07,BYD_YUAN_UP,SHOCK_ABSORBERS,2026-11-18,observed,1418112000,catalogue_fit,85.0,11262.5,converted_fx,In stock,Shock absorber strut front | Front shock absorber damper | $85.00
+PC-0048,S05,VW_ID4,SHOCK_ABSORBERS,2026-11-18,observed,1EA413031,confirmed_oem,175.0,23187.5,converted_fx,In stock,Shock absorber strut front | Front suspension strut damper | $175.00
+PC-0049,S06,TOYOTA_BZ4X,SHOCK_ABSORBERS,2026-11-18,observed,4851080860,confirmed_oem,195.0,25837.5,converted_fx,In stock,Shock absorber strut front | Shock absorber set front | $195.00
+PC-0050,S07,CHANGAN_BENBEN_ESTAR,SHOCK_ABSORBERS,2026-11-18,observed,,unverified,,,missing,On request,Shock absorber strut front | Front suspension strut | 

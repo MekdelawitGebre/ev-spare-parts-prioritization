@@ -1,0 +1,62 @@
+table_name,record_id,field_name,issue_type,treatment,detail
+vehicle_listing,ADEY-0051,price_raw,missing,kept as NaN (not imputed),price empty
+vehicle_listing,ADEY-0058,price_raw,missing,kept as NaN (not imputed),price empty
+vehicle_listing,ADEY-0050,model_year,year_missing_or_invalid,kept NaN,
+vehicle_listing,ADEY-0054,model_year,year_missing_or_invalid,kept NaN,
+vehicle_listing,JIJI-0008,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0013,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0014,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0015,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0016,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0018,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0020,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0021,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0023,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0059,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0060,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0061,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0063,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0066,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0067,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0070,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0071,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0072,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0079,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0094,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0115,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0125,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0126,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0143,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0148,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0153,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0157,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0159,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0162,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0173,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0180,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0183,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0190,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,JIJI-0216,source_id|vehicle_id|model_year|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+vehicle_listing,ADEY-0036,price_etb,price_outlier,flagged outlier_flag=1 (kept; excluded from price statistics),robust z > 3.5
+vehicle_listing,ADEY-0046,price_etb,price_outlier,flagged outlier_flag=1 (kept; excluded from price statistics),robust z > 3.5
+vehicle_listing,GEZAT-0155,price_etb,price_outlier,flagged outlier_flag=1 (kept; excluded from price statistics),robust z > 3.5
+vehicle_listing,GEZAT-0156,price_etb,price_outlier,flagged outlier_flag=1 (kept; excluded from price statistics),robust z > 3.5
+vehicle_listing,GEZAT-0157,price_etb,price_outlier,flagged outlier_flag=1 (kept; excluded from price statistics),robust z > 3.5
+vehicle_listing,JIJI-0002,price_etb,price_outlier,flagged outlier_flag=1 (kept; excluded from price statistics),robust z > 3.5
+vehicle_listing,JIJI-0026,price_etb,price_outlier,flagged outlier_flag=1 (kept; excluded from price statistics),robust z > 3.5
+vehicle_listing,JIJI-0057,price_etb,price_outlier,flagged outlier_flag=1 (kept; excluded from price statistics),robust z > 3.5
+vehicle_listing,JIJI-0083,price_etb,price_outlier,flagged outlier_flag=1 (kept; excluded from price statistics),robust z > 3.5
+vehicle_listing,JIJI-0098,price_etb,price_outlier,flagged outlier_flag=1 (kept; excluded from price statistics),robust z > 3.5
+vehicle_listing,JIJI-0113,price_etb,price_outlier,flagged outlier_flag=1 (kept; excluded from price statistics),robust z > 3.5
+vehicle_listing,JIJI-0140,price_etb,price_outlier,flagged outlier_flag=1 (kept; excluded from price statistics),robust z > 3.5
+vehicle_listing,JIJI-0144,price_etb,price_outlier,flagged outlier_flag=1 (kept; excluded from price statistics),robust z > 3.5
+vehicle_listing,JIJI-0149,price_etb,price_outlier,flagged outlier_flag=1 (kept; excluded from price statistics),robust z > 3.5
+vehicle_listing,JIJI-0156,price_etb,price_outlier,flagged outlier_flag=1 (kept; excluded from price statistics),robust z > 3.5
+vehicle_listing,JIJI-0208,price_etb,price_outlier,flagged outlier_flag=1 (kept; excluded from price statistics),robust z > 3.5
+parts_catalog_evidence,PC-0010,price_raw,price_on_request,kept as NaN (not imputed),seller did not publish a price
+parts_catalog_evidence,PC-0050,price_raw,missing,kept as NaN (not imputed),price empty
+local_part_listing,LP-0002,source_id|vehicle_id|part_id|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+local_part_listing,LP-0017,source_id|vehicle_id|part_id|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+local_part_listing,LP-0051,source_id|vehicle_id|part_id|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+local_part_listing,LP-0058,source_id|vehicle_id|part_id|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,
+local_part_listing,LP-0062,source_id|vehicle_id|part_id|price_etb|location|seller_raw,duplicate_fuzzy,flagged is_duplicate=1; first occurrence kept,

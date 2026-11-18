@@ -1,0 +1,11 @@
+part_name,baseline,slide_example,equal_weights,demand_heavy,opportunity_heavy,feasibility_heavy,no_confidence_factor,baseline_vehicle_equal_weights,drop_TOYOTA_BZ4X,drop_BYD_YUAN_UP,drop_VW_ID4
+Brake pads,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0
+Brake discs,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0
+Cabin-air filters,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0
+Wiper blades,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0
+Headlights,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0,10.0
+Tail lights,8.0,8.0,8.0,9.0,8.0,8.0,9.0,9.0,8.0,9.0,9.0
+Side mirrors,6.0,6.0,6.0,5.0,6.0,6.0,6.0,6.0,7.0,5.0,5.0
+Bumpers,9.0,9.0,9.0,8.0,9.0,9.0,8.0,8.0,9.0,8.0,8.0
+Fenders/body panels,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,6.0,7.0,7.0
+Shock absorbers,5.0,5.0,5.0,6.0,5.0,5.0,5.0,5.0,5.0,6.0,6.0

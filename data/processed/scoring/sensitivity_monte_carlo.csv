@@ -1,0 +1,11 @@
+part_id,p_top5,median_rank,rank_p05,rank_p95,part_name,score,eligible,stability
+BRAKE_PADS,1.0,3.0,3.0,3.0,Brake pads,80.83049894964597,True,robust
+BRAKE_DISCS,1.0,4.0,4.0,4.0,Brake discs,71.28850676214597,True,robust
+CABIN_AIR_FILTER,1.0,1.0,1.0,2.0,Cabin-air filters,88.130859375,True,robust
+WIPER_BLADES,1.0,2.0,1.0,2.0,Wiper blades,87.33565848214286,True,robust
+SHOCK_ABSORBERS,0.854,5.0,5.0,6.0,Shock absorbers,63.48423778893168,True,robust
+SIDE_MIRRORS,0.146,6.0,5.0,6.0,Side mirrors,61.40615722086591,True,sensitive
+TAIL_LIGHTS,0.0,8.0,8.0,9.0,Tail lights,53.12492351727101,True,sensitive
+HEADLIGHTS,0.0,10.0,10.0,10.0,Headlights,46.98307686304134,True,sensitive
+BUMPERS,0.0,9.0,8.0,9.0,Bumpers,52.861328125,True,sensitive
+FENDERS,0.0,7.0,7.0,7.0,Fenders/body panels,58.865681459842385,True,sensitive
