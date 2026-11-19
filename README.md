@@ -7,10 +7,6 @@ This repository provides an empirical, reproducible commercial advisory framewor
 
 ## 1. Business Problem Understanding & Commercial Scope
 
-### 1.1 Commercial Context & Importer Constraints
-Following Ethiopia's landmark policy restricting the importation of internal combustion engine (ICE) passenger vehicles and the transition to a market-determined floating foreign exchange regime in July 2024, Addis Ababa has experienced an unprecedented surge in passenger electric vehicles (predominantly Chinese platforms like BYD and Changan, alongside European and Japanese models such as Volkswagen ID.4 and Toyota bZ4X).
-
-For a prospective automotive parts importer, establishing an aftermarket distribution operation under these conditions presents three severe commercial constraints:
 1. **Severe Capital & Foreign Currency Scarcity**: Following the ETB currency float, foreign exchange (USD/CNY) is highly constrained. Importing slow-moving inventory or incorrect fitments freezes hard currency and risks catastrophic business failure.
 2. **Absence of Official Granular Registration Data**: The Ethiopian Ministry of Transport and regional transport bureaus do not publish registration statistics or aftermarket transaction volumes disaggregated by specific EV model or trim.
 3. **Cross-Trim Engineering Variances**: Chinese EV manufacturers frequently introduce running engineering changes across production months and trim levels without altering marketing badges, creating significant compatibility risks.
@@ -19,7 +15,7 @@ For a prospective automotive parts importer, establishing an aftermarket distrib
 
 ---
 
-### 1.2 Core Strategic Questions Addressed
+### 1.1 Core Strategic Questions Addressed
 | Commercial Question | Analytical Approach & Evidence Source | Reference Location |
 |---|---|---|
 | **Which EV models form the primary target fleet?** | Market visibility across Ethiopian classifieds (`jiji.com.et`), structured dealer platforms (`adey-market.com`), and authorized importer catalogues (`ev.gezat.et`) — treated strictly as operational visibility proxies, not official sales. | Section 7 & `data/processed/scoring/vehicle_selection.csv` |
@@ -28,7 +24,7 @@ For a prospective automotive parts importer, establishing an aftermarket distrib
 
 ---
 
-### 1.3 The Five Commercial Decision Lenses
+### 1.2 The Five Commercial Decision Lenses
 Every replacement part candidate is evaluated across five objective business dimensions:
 
 | Factor | Weight | Importer's Commercial Question | Empirical Evidence Type | Strategic Rationale |
@@ -41,7 +37,7 @@ Every replacement part candidate is evaluated across five objective business dim
 
 ---
 
-### 1.4 Golden Operational Rules
+### 1.3 Golden Operational Rules
 Throughout the codebase and data pipelines, four non-negotiable evidentiary rules are enforced:
 1. **Separation of Policy and Observation**: Every analyst assumption, weight vector, and scoring threshold is declared in the configuration block and labeled `ASSUMPTION`. All downstream calculations reflect pure observation.
 2. **Explicit Uncertainty (No Silent Imputation)**: Missing values are never filled with synthetic averages. They remain `NaN` and are tracked with explicit status codes (`observed`, `imputed_from_source_log`, `price_on_request`, `not_found`).
