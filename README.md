@@ -77,7 +77,7 @@ ev-parts-prioritization/
 │       │   ├── search_log_clean.csv
 │       │   └── failure_evidence_clean.csv
 │       ├── scoring/                         # Analytical scores & decision matrices
-│       │   ├── vehicle_selection.csv        # Fleet visibility ranking (Yuan Up, ID.4, Seagull)
+│       │   ├── vehicle_selection.csv        # Fleet visibility ranking (bZ4X, Yuan Up, ID.4)
 │       │   ├── factor_scores_by_vehicle_part.csv # 5-factor scoring per vehicle-part
 │       │   ├── final_ranking.csv            # Composite priority scores (10 categories)
 │       │   ├── sensitivity_scenarios.csv    # Strategic weighting scenarios
@@ -138,7 +138,7 @@ jupyter notebook notebooks/01_ev_parts_prioritization.ipynb
 
 ## 4. Key Analytical Findings & Top 5 Recommendations
 
-Based on multi-criteria factor scoring (Demand 30%, Compatibility 25%, Scarcity 20%, Practicality 15%, Confidence 10%) weighted across the top 3 visible EV models (**BYD Yuan Up, Volkswagen ID.4, BYD Seagull**):
+Based on multi-criteria factor scoring (Demand 30%, Compatibility 25%, Scarcity 20%, Practicality 15%, Confidence 10%) weighted across the top 3 visible EV models (**Toyota bZ4X, BYD Yuan Up, Volkswagen ID.4**):
 
 | Rank | Part Category | Priority Score | Monte Carlo Top-5 Prob | Stability Class | Commercial Strategic Justification |
 |:---:|---|:---:|:---:|:---:|---|
