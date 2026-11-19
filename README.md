@@ -142,13 +142,13 @@ Based on multi-criteria factor scoring (Demand 30%, Compatibility 25%, Scarcity 
 
 | Rank | Part Category | Priority Score | Monte Carlo Top-5 Prob | Stability Class | Commercial Strategic Justification |
 |:---:|---|:---:|:---:|:---:|---|
-| **1** | **Wiper blades** | **92.00** | 100.0% | **Robust** | High routine demand driven by high UV exposure and dust abrasion; rapid turnover; low shipping weight and easy warehouse storage. |
-| **2** | **Cabin-air filters** | **87.00** | 100.0% | **Robust** | Critical consumable requiring replacement every 5,000–10,000 km due to Addis Ababa dust levels; zero compatibility failure risk. |
-| **3** | **Brake pads** | **82.00** | 100.0% | **Robust** | Primary mechanical wear component; severe stop-and-go Addis traffic combined with hilly topography wears friction material despite regenerative braking. |
-| **4** | **Brake discs (rotors)** | **72.00** | 98.7% | **Robust** | Replaced every 2 pad cycles; acute local market shortage in Addis Ababa; high commercial margin potential. |
-| **5** | **Side mirrors** | **65.75** | 71.4% | **Probable** | High collision and parking damage frequency in congested urban corridors; moderate supply constraints. |
+| **1** | **Cabin-air filters** | **88.13** | 100.0% | **Robust** | Critical consumable requiring replacement every 5,000–10,000 km due to Addis Ababa dust and diesel particulates; zero local market supply (100% scarcity). |
+| **2** | **Wiper blades** | **87.34** | 100.0% | **Robust** | Routine demand driven by high-altitude UV radiation and dust abrasion ahead of rainy seasons; rapid cash turnover; compact shipping volume. |
+| **3** | **Brake pads** | **80.83** | 100.0% | **Robust** | Primary mechanical friction wear component; severe stop-and-go Addis traffic and steep topography maintain abrasion despite EV regen braking; confirmed OEM fitment. |
+| **4** | **Brake discs (rotors)** | **71.29** | 100.0% | **Robust** | Replaced every 2 pad cycles; acute local market shortage in Addis Ababa; surface corrosion and warping from EV regenerative braking under wet/dry cycles. |
+| **5** | **Shock absorbers (struts)** | **63.48** | 85.4% | **Robust** | Severe road surface fatigue from unpaved cobblestones and potholes combined with heavy EV curb weights; verified distributor catalogue sourcing across all 3 models. |
 
-*Runner-Up / Phase 2 Category:* **Shock absorbers** (Score: 65.00, Top-5 Prob: 64.9%) — High wear from road surface conditions and heavy EV curb weights, recommended for subsequent procurement tranches once initial supply channels are established.
+*Runner-Up / Rank 6 Category:* **Side mirrors** (Score: 61.41, Top-5 Prob: 14.6%, Stability: Sensitive) — High collision and parking damage frequency in congested urban corridors; recommended for secondary tranches once initial consumable cash flow is secured.
 
 ---
 
@@ -157,4 +157,4 @@ Based on multi-criteria factor scoring (Demand 30%, Compatibility 25%, Scarcity 
 - **Relational Integrity**: Foreign-key enforced SQLite database (`db/ev_parts.db`) with zero constraint violations.
 - **Explicit Missingness Handling**: Missing values are never silently imputed; fields retain explicit status codes (`observed`, `converted_fx`, `price_on_request`, `not_found`).
 - **Compatibility Knock-Out Gate**: Components with unverified fitment (< 40) are eliminated from consideration before ranking.
-- **Sensitivity Robustness**: The top 3 consumable categories (Wipers, Cabin Filters, Brake Pads) achieved a **100.0% inclusion probability across 2,000 randomized Monte Carlo Dirichlet weight variations**.
+- **Sensitivity Robustness**: The top 4 consumable & wear categories (Cabin Filters, Wipers, Brake Pads, Brake Discs) all achieved a **100.0% inclusion probability across 2,000 randomized Monte Carlo Dirichlet weight variations**, with Shock Absorbers securing **85.4%** inclusion stability.

@@ -57,9 +57,10 @@ To guarantee commercial robustness, the analytical framework evaluates:
 
 ## 6. Executive Presentation Structure (7 Minutes)
 1. **Commercial Context & Problem Definition (45s)**: Ethiopian EV import landscape, foreign currency availability, and inventory holding risks.
-2. **Fleet Selection Rationale (60s)**: Why BYD Yuan Up, VW ID.4, and BYD Seagull dominate visibility; addressing the "listings != sales" distinction.
+2. **Fleet Selection Rationale (60s)**: Why Toyota bZ4X, BYD Yuan Up, and VW ID.4 dominate visibility and distributor presence; addressing the "listings != sales" distinction.
 3. **Evidence Architecture & Cleaning (60s)**: Source tiers, missingness profiling, duplicate filtering, and relational schema.
 4. **Scoring Model & Knock-Out Gate (90s)**: Mathematical formulation, engineering baseline justifications, and fitment risk prevention.
 5. **Top 5 Recommended Parts (60s)**: In-depth rationale for Cabin-Air Filters, Brake Pads, Brake Discs, Wiper Blades, and Shock Absorbers.
 6. **Robustness & Sensitivity Analysis (60s)**: Monte Carlo results proving Top-5 stability under shifting capital priorities.
 7. **Implementation Roadmap & Risk Mitigation (45s)**: Phased trial batch procurement, supplier contracting, and exchange rate hedge strategies.
+
