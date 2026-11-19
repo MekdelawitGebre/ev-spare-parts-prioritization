@@ -5,14 +5,48 @@ This repository provides an empirical, reproducible commercial advisory framewor
 
 ---
 
-## 1. Business Context & Objective
-Following Ethiopia's national policy restricting non-electric private vehicle imports and the transition to a floating foreign exchange regime (July 2024), Addis Ababa has experienced a rapid surge in passenger EVs (notably Chinese-manufactured models like BYD and Changan, alongside European and Japanese platforms). 
+## 1. Business Problem Understanding & Commercial Scope
 
-Because official registration statistics and aftermarket transaction volumes are not publicly segregated by model in Ethiopia, procurement decisions carry severe capital risks:
-- Stocking slow-moving or incompatible parts immobilizes hard currency.
-- Stocking critical fast-wearing consumables and high-scarcity safety components ensures rapid capital turnover and captured market share.
+### 1.1 Commercial Context & Importer Constraints
+Following Ethiopia's landmark policy restricting the importation of internal combustion engine (ICE) passenger vehicles and the transition to a market-determined floating foreign exchange regime in July 2024, Addis Ababa has experienced an unprecedented surge in passenger electric vehicles (predominantly Chinese platforms like BYD and Changan, alongside European and Japanese models such as Volkswagen ID.4 and Toyota bZ4X).
 
-This project delivers a **multi-factor decision model** anchored entirely in verifiable public evidence (local classifieds, structured marketplaces, authorized dealer inventories, international OEM catalogues, and regulatory defect records).
+For a prospective automotive parts importer, establishing an aftermarket distribution operation under these conditions presents three severe commercial constraints:
+1. **Severe Capital & Foreign Currency Scarcity**: Following the ETB currency float, foreign exchange (USD/CNY) is highly constrained. Importing slow-moving inventory or incorrect fitments freezes hard currency and risks catastrophic business failure.
+2. **Absence of Official Granular Registration Data**: The Ethiopian Ministry of Transport and regional transport bureaus do not publish registration statistics or aftermarket transaction volumes disaggregated by specific EV model or trim.
+3. **Cross-Trim Engineering Variances**: Chinese EV manufacturers frequently introduce running engineering changes across production months and trim levels without altering marketing badges, creating significant compatibility risks.
+
+**The Strategic Objective:** Provide a defensible, empirical decision-support framework to determine the **Top 5 replacement part categories** (out of 10 candidate categories) an importer should prioritize for initial stocking in Ethiopia, backed 100% by verifiable empirical evidence with **zero invented or synthetic data**.
+
+---
+
+### 1.2 Core Strategic Questions Addressed
+| Commercial Question | Analytical Approach & Evidence Source | Reference Location |
+|---|---|---|
+| **Which EV models form the primary target fleet?** | Market visibility across Ethiopian classifieds (`jiji.com.et`), structured dealer platforms (`adey-market.com`), and authorized importer catalogues (`ev.gezat.et`) — treated strictly as operational visibility proxies, not official sales. | Section 7 & `data/processed/scoring/vehicle_selection.csv` |
+| **Which parts deliver the highest procurement return?** | Multi-criteria 5-factor scoring model (Demand, Compatibility, Scarcity, Practicality, Confidence) combined with a hard compatibility knock-out gate. | Sections 8–10 & `reports/top5_recommendation.csv` |
+| **How resilient and credible is the evidence base?** | Strict source tiering (A/B/C), multi-source cross-verification, empirical missingness audits, foreign exchange float tracking, and 2,000 Dirichlet Monte Carlo simulations. | Sections 3–5, 10–11 & `db/ev_parts.db` |
+
+---
+
+### 1.3 The Five Commercial Decision Lenses
+Every replacement part candidate is evaluated across five objective business dimensions:
+
+| Factor | Weight | Importer's Commercial Question | Empirical Evidence Type | Strategic Rationale |
+|---|:---:|---|---|---|
+| **Demand** | **30%** | *Will customers need this part repeatedly?* | Engineering wear baseline standard + US DOT NHTSA failure signal where available | Prioritizes fast inventory turnover and predictable working capital replenishment. |
+| **Compatibility** | **25%** | *Can I be sure it fits the vehicle?* | Verified OEM electronic parts catalogues, cross-reference interchange part numbers | A part that physically does not fit is a 100% financial write-off under foreign exchange constraints. |
+| **Scarcity** | **20%** | *Is it hard to find locally in Addis Ababa today?* | Targeted search logs on Ethiopian marketplaces (**0 results seen is verified scarcity**) | Unlocks pricing power, healthy commercial margins, and captured market share. |
+| **Practicality** | **15%** | *Can I source, ship, and store it efficiently?* | Logistics feasibility standard (cubic bulk, transit fragility, shelf-life, paint-matching) | Bulky, fragile items (bumpers, sheet metal) destroy container unit economics and freight margins. |
+| **Confidence** | **10%** | *How much should I trust the numbers above?* | Source credibility tiering (Tier A = 100, Tier B = 70, Tier C = 40) | Protects decision-makers against uncorroborated claims and single-source bias. |
+
+---
+
+### 1.4 Golden Operational Rules
+Throughout the codebase and data pipelines, four non-negotiable evidentiary rules are enforced:
+1. **Separation of Policy and Observation**: Every analyst assumption, weight vector, and scoring threshold is declared in the configuration block and labeled `ASSUMPTION`. All downstream calculations reflect pure observation.
+2. **Explicit Uncertainty (No Silent Imputation)**: Missing values are never filled with synthetic averages. They remain `NaN` and are tracked with explicit status codes (`observed`, `imputed_from_source_log`, `price_on_request`, `not_found`).
+3. **Marketplace Listings as Visibility Proxies**: Classified ads represent observable dealer asking supply and fleet visibility, not finalized registration statistics.
+4. **Full Evidentiary Lineage**: Every claim, listing, and catalogue row traces back to an active source URL, publisher tier, and access date.
 
 ---
 
